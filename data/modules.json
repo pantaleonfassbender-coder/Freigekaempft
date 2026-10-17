@@ -1,16 +1,18 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "lage",
-   "side": "dt",
+   "side": "hist",
    "kurz": "Die Lage im April 1945",
    "kurz_en": "The situation in April 1945",
-   "warum": "",
-   "warum_en": "",
-   "quelle": "Ziemke; OKW-Berichte und Meldungen des Sowinformbüros 16.–20.4.",
-   "quelle_en": "Ziemke; OKW reports and Soviet Information Bureau reports 16–20 April"
-  },
+   "warum": "Was die deutsche Führung vom 16. bis 20. April wusste und glaubte, nach Ziemkes Darstellung aus den Akten, und was das OKW und das Sowjetische Informationsbüro in denselben Tagen öffentlich meldeten. Englisch, deutsch und russisch, mit Übersetzungen.",
+   "warum_en": "What the German command knew and believed from 16 to 20 April, in Ziemke's account from the files, and what the OKW and the Soviet Information Bureau publicly reported in the same days. English, German and Russian, with translations.",
+   "quelle": "Ziemke, Stalingrad to Berlin (CMH 1968) S. 471–476; Wehrmachtberichte 17.–19.4.1945 (Marburger Zeitung 18.–20.4.); Сообщения Советского Информбюро, т. 8 (1945) S. 177–179",
+   "datei": "lage",
+   "zk": "Lage"
+  }
+ ],
+ "planned": [
   {
    "id": "lauban",
    "side": "dt",

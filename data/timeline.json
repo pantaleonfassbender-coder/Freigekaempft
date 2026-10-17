@@ -1,7 +1,96 @@
 {
- "span": "16. April – 8. Mai 1945",
- "span_en": "16 April – 8 May 1945",
+ "span": "10. April – 8. Mai 1945",
+ "span_en": "10 April – 8 May 1945",
  "lede": "Die Tage der Offensive, wie die Meldungen sie erzählen und wie sie verliefen.",
  "lede_en": "The days of the offensive as the reports tell them and as they went.",
- "stations": []
+ "stations": [
+  {
+   "d": "10. April 1945",
+   "d_en": "10 April 1945",
+   "side": "dt",
+   "titel": "Schörner erwartet den Angriff bei Görlitz",
+   "titel_en": "Schörner expects the attack at Görlitz",
+   "text": "Fünf Tage nach seiner Ernennung zum Generalfeldmarschall meldet Schörner Hitler, der Angriff werde zwischen Görlitz und Löwenberg liegen. Dort hält er die Hälfte seiner Reserven.",
+   "text_en": "Five days after his promotion to field marshal Schörner reports to Hitler that the attack will fall between Görlitz and Löwenberg. He keeps half his reserves there.",
+   "cite": "#/text/lage/falsch/2",
+   "citeLabel": "Lage [2]",
+   "citeLabel_en": "Situation [2]"
+  },
+  {
+   "d": "16. April 1945",
+   "d_en": "16 April 1945",
+   "side": "sow",
+   "titel": "Über die Neiße",
+   "titel_en": "Across the Neisse",
+   "text": "Die 1. Ukrainische Front überschreitet die Neiße zwischen Muskau und Forst und nördlich von Görlitz; mit ihr greifen die 2. Polnische und die 52. Armee in Richtung Bautzen und Dresden an.",
+   "text_en": "The First Ukrainian Front crosses the Neisse between Muskau and Forst and north of Görlitz; with it the Polish Second and the 52nd Army attack towards Bautzen and Dresden.",
+   "cite": "#/text/lage/neisse/3",
+   "citeLabel": "Lage [3]",
+   "citeLabel_en": "Situation [3]",
+   "plate": "ziemke42"
+  },
+  {
+   "d": "17. April 1945",
+   "d_en": "17 April 1945",
+   "side": "dt",
+   "titel": "„Der erwartete Großangriff“",
+   "titel_en": "“The expected great attack”",
+   "text": "Der Wehrmachtbericht meldet den Angriff an der Lausitzer Neiße als erwartet und Einbrüche als abgeriegelt.",
+   "text_en": "The Wehrmacht report announces the attack on the Lusatian Neisse as expected and the penetrations as sealed off.",
+   "cite": "#/text/lage/okw/6",
+   "citeLabel": "Lage [6]",
+   "citeLabel_en": "Situation [6]"
+  },
+  {
+   "d": "18. April 1945",
+   "d_en": "18 April 1945",
+   "side": "hist",
+   "titel": "Ein Tag des Optimismus",
+   "titel_en": "A day of optimism",
+   "text": "Im Führerhauptquartier glaubt man die Offensive gegen die 4. Panzerarmee festgelaufen; Konews Truppen stehen an der Spree bei Spremberg und nähern sich Bautzen.",
+   "text_en": "At Führer headquarters the offensive against the Fourth Panzer Army is believed to have run itself tight; Konev's troops stand on the Spree at Spremberg and approach Bautzen.",
+   "cite": "#/text/lage/neisse/4",
+   "citeLabel": "Lage [4]",
+   "citeLabel_en": "Situation [4]"
+  },
+  {
+   "d": "19. April 1945",
+   "d_en": "19 April 1945",
+   "side": "sow",
+   "titel": "Moskau meldet die Offensive",
+   "titel_en": "Moscow reports the offensive",
+   "text": "Das Sowjetische Informationsbüro nennt die ersten drei Tage eine „gewaltsame Aufklärung“ und meldet Forst, Muskau, Weißwasser und Rothenburg, dieses von der 2. Polnischen Armee genommen.",
+   "text_en": "The Soviet Information Bureau calls the first three days a 'reconnaissance in force' and reports Forst, Muskau, Weißwasser and Rothenburg, the last taken by the Polish Second Army.",
+   "cite": "#/text/lage/moskau/9",
+   "citeLabel": "Lage [9]",
+   "citeLabel_en": "Situation [9]",
+   "plate": "sib19"
+  },
+  {
+   "d": "19. April 1945",
+   "d_en": "19 April 1945",
+   "side": "dt",
+   "titel": "„Schmale Angriffskeile“",
+   "titel_en": "“Narrow wedges of attack”",
+   "text": "Das OKW meldet Angriffskeile bis östlich Bautzen und an die Spree; Schörner meldet Hitler am selben Tag nur noch „Hoffnungen“.",
+   "text_en": "The OKW reports wedges of attack reaching east of Bautzen and the Spree; the same day Schörner reports to Hitler only 'hopes'.",
+   "cite": "#/text/lage/okw/8",
+   "citeLabel": "Lage [8]",
+   "citeLabel_en": "Situation [8]",
+   "plate": "mzokw20"
+  },
+  {
+   "d": "20. April 1945",
+   "d_en": "20 April 1945",
+   "side": "hist",
+   "titel": "Die Schlacht um Berlin ist verloren",
+   "titel_en": "The battle for Berlin is lost",
+   "text": "Hitlers Geburtstag. Zwei Garde-Panzerarmeen lösen sich von der Flanke der Heeresgruppe Mitte und stoßen nach Norden; Moskau meldet Niesky, Spremberg und Hoyerswerda und den Kampf an den Rändern von Kamenz und Bautzen.",
+   "text_en": "Hitler's birthday. Two Guards tank armies pull away from the flank of Army Group Centre and drive north; Moscow reports Niesky, Spremberg and Hoyerswerda and fighting on the outskirts of Kamenz and Bautzen.",
+   "cite": "#/text/lage/neisse/5",
+   "citeLabel": "Lage [5]",
+   "citeLabel_en": "Situation [5]",
+   "plate": "vizlage"
+  }
+ ]
 }

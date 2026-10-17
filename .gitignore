@@ -1,1 +1,4 @@
 *.zip
+# Quell-PDFs (tools/fetch-quellen.py lädt sie)
+tools/src/
+__pycache__/

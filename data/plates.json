@@ -1,7 +1,52 @@
 {
- "lede": "",
- "lede_en": "",
- "credit": "",
- "credit_en": "",
- "plates": []
+ "lede": "Karten, Seiten der Quellen und die Grafiken des Apparats. Zeitungsseiten erscheinen nur als Ausschnitte ohne Zeitungskopf und ohne Hoheitszeichen. Jede Tafel nennt ihr Original.",
+ "lede_en": "Maps, pages of the sources and the apparatus's own graphics. Newspaper pages appear only as excerpts without masthead and without national emblems. Every plate names its original.",
+ "credit": "Seitenbilder aus gemeinfreien Digitalisaten (Internet Archive, dLib.si, booksite.ru), jeweils mit ihrem Original genannt; eigene Grafiken CC BY 4.0, Flüsse aus Natural Earth (gemeinfrei).",
+ "credit_en": "Page images from public-domain scans (Internet Archive, dLib.si, booksite.ru), each named with its original; the apparatus's own graphics CC BY 4.0, rivers from Natural Earth (public domain).",
+ "plates": [
+  {
+   "id": "vizlage",
+   "side": "hist",
+   "titel": "Drei Lagebilder, 19. und 20. April 1945",
+   "titel_en": "Three pictures of the situation, 19 and 20 April 1945",
+   "caption": "Grafik des Apparats: was Moskau am 19. und 20. April als genommen meldete, wohin das OKW am 19. April die „schmalen Angriffskeile“ reichen ließ, und wo Schörner den Angriff am 10. April erwartet hatte. Orte nach heutigen Koordinaten.",
+   "caption_en": "The apparatus's graphic: what Moscow reported as taken on 19 and 20 April, how far the OKW let the 'narrow wedges of attack' reach on 19 April, and where Schörner had expected the attack on 10 April. Places by today's coordinates.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/lage/moskau/10"
+  },
+  {
+   "id": "ziemke42",
+   "side": "hist",
+   "titel": "Ziemke, Karte 42: Berlin, 16. April – 7. Mai 1945",
+   "titel_en": "Ziemke, Map 42: Berlin, 16 April – 7 May 1945",
+   "caption": "Die Karte der amerikanischen Armeegeschichte, 1968. Zwischen Görlitz und Spremberg stehen die 2. Polnische Armee („Second (Polish)“) und die 52. Armee („Fifty-second“), nordwestlich Bautzen der Kasten der 4. Panzerarmee („Fourth Pz“); die deutsche Front vom 16. April gestrichelt, die vom 25. April schraffiert.",
+   "caption_en": "The map of the American army history, 1968. Between Görlitz and Spremberg stand the Polish Second Army ('Second (Polish)') and the 52nd Army ('Fifty-second'), north-west of Bautzen the box of the Fourth Panzer Army ('Fourth Pz'); the German front of 16 April dashed, that of 25 April hatched.",
+   "source": "Earl F. Ziemke, Stalingrad to Berlin (CMH 1968/1987), Map 42; Internet Archive, gemeinfrei",
+   "url": "https://archive.org/details/StalingradToBerlinTheGermanDefeatInTheEast-nsia",
+   "cite": "#/text/lage/falsch/1"
+  },
+  {
+   "id": "mzokw20",
+   "side": "dt",
+   "titel": "Der Wehrmachtbericht vom 19. April in der Zeitung",
+   "titel_en": "The Wehrmacht report of 19 April in the newspaper",
+   "caption": "Marburger Zeitung, 20. April 1945, Seite 2: „Dem Sowjet-Massensturm standgehalten“, darunter der Bericht mit den „schmalen Angriffskeilen“ bis östlich Bautzen. Ausschnitt ohne Zeitungskopf.",
+   "caption_en": "Marburger Zeitung, 20 April 1945, page 2: 'Withstood the Soviet mass onslaught', below it the report with the 'narrow wedges of attack' reaching east of Bautzen. Excerpt without masthead.",
+   "source": "Marburger Zeitung Nr. 110, 20.4.1945, S. 2 (Ausschnitt); dLib.si, Narodna in univerzitetna knjižnica",
+   "url": "https://www.dlib.si/details/URN:NBN:SI:DOC-F2DJDGGD",
+   "cite": "#/text/lage/okw/8"
+  },
+  {
+   "id": "sib19",
+   "side": "sow",
+   "titel": "Die sowjetische Meldung für den 19. April",
+   "titel_en": "The Soviet report for 19 April",
+   "caption": "Сообщения Советского Информбюро, Band 8, Seite 177: die „Оперативная сводка за 19 апреля“ mit der „силовая разведка“ der ersten drei Tage und der 2. Polnischen Armee bei Rothenburg.",
+   "caption_en": "Soobshcheniya Sovetskogo Informbyuro, vol. 8, p. 177: the 'Operational summary for 19 April' with the 'reconnaissance in force' of the first three days and the Polish Second Army at Rothenburg.",
+   "source": "Сообщения Советского Информбюро, т. 8 (Москва 1945), S. 177 (Ausschnitt); booksite.ru",
+   "url": "https://www.booksite.ru/fulltext/inform8/index.htm",
+   "cite": "#/text/lage/moskau/9"
+  }
+ ]
 }

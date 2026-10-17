@@ -181,10 +181,11 @@ async function reader([id, secId, unitN]) {
   view.innerHTML = `<p class="fine">${esc(S("loading"))}</p>`;
   const t = await text(m.datei);
   const sec = t.sections.find(s => s.id === secId) || t.sections[0];
-  const bilingual = sec.units.some(u => u.orig);
-  const pref = langPref || (ui === "de" ? "orig" : "both");
-  const lang = bilingual ? pref : "en";
+  const bilingual = sec.units.some(u => u.orig && trLang(u, u.lang || t.orig_sprache) !== (u.lang || t.orig_sprache));
   const langs = [...new Set(sec.units.filter(u => u.orig).map(u => u.lang || t.orig_sprache))];
+  // Voreinstellung: nur das Original, wenn es in der Sprache der Oberfläche ist, sonst Original und Übersetzung
+  const pref = langPref || (langs.every(l => l === ui) ? "orig" : "both");
+  const lang = bilingual ? pref : "en";
   const origName = langs.length === 1 && langs[0] !== "de" ? `Original (${lname(langs[0])})` : S("orig");
   const labels = { both: S("both"), orig: origName, en: S("trans") };
   view.innerHTML = `
@@ -201,9 +202,11 @@ async function reader([id, secId, unitN]) {
       <p><b>${esc(S("source"))}.</b> ${esc(t.quelle)}</p><p>${esc(L(t, "hinweis"))}</p></div>`;
   const box = view.querySelector("#units");
   for (const u of sec.units) {
-    const showO = u.orig && lang !== "en", showE = !u.orig || lang !== "orig";
-    const cls = ["unit", String(u.n) === unitN ? "hl" : ""].join(" ");
     const ul = u.lang || t.orig_sprache;
+    // ein englisches Original in der englischen Oberfläche braucht keine Übersetzung daneben
+    const dup = !!u.orig && trLang(u, ul) === ul;
+    const showO = u.orig && (lang !== "en" || dup), showE = (!u.orig || lang !== "orig") && !dup;
+    const cls = ["unit", String(u.n) === unitN ? "hl" : ""].join(" ");
     box.insertAdjacentHTML("beforeend", `
       <div class="${cls}" id="u${u.n}">
         <div class="num"><a href="#/text/${id}/${sec.id}/${u.n}" title="${esc(S("cite"))} ${esc(sec.zk)} [${u.n}]">[${u.n}]</a>
@@ -252,7 +255,7 @@ async function compare([pid]) {
       <div class="vhead">${side(v.side || m.side)} <b>${esc(v.autor ? L(v, "autor") : L(t, "autor"))}</b><br><span class="fine">${esc(t.jahr)} · ${esc(L(sec, "titel"))}</span></div>
       ${units.map(u => `<div class="vunit">
         <div class="fine"><a href="#/text/${m.id}/${sec.id}/${u.n}">${esc(sec.zk)} [${u.n}]</a>${u.titel ? ` · ${esc(L(u, "titel"))}` : ""}</div>
-        <div class="text">${esc(ui === "de" && u.orig && (u.lang || t.orig_sprache) === "de" ? u.orig : tr(u, u.lang || t.orig_sprache))}</div></div>`).join("")}
+        <div class="text">${esc(u.orig && (u.lang || t.orig_sprache) === ui ? u.orig : tr(u, u.lang || t.orig_sprache))}</div></div>`).join("")}
     </div>`;
   };
   view.innerHTML = `
