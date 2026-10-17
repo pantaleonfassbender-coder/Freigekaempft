@@ -1,0 +1,86 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "lage",
+   "side": "dt",
+   "kurz": "Die Lage im April 1945",
+   "kurz_en": "The situation in April 1945",
+   "warum": "",
+   "warum_en": "",
+   "quelle": "Ziemke; OKW-Berichte und Meldungen des Sowinformbüros 16.–20.4.",
+   "quelle_en": "Ziemke; OKW reports and Soviet Information Bureau reports 16–20 April"
+  },
+  {
+   "id": "lauban",
+   "side": "dt",
+   "kurz": "Lauban: die Wochenschau einer Gegenoffensive",
+   "kurz_en": "Lauban: the newsreel of a counteroffensive",
+   "warum": "",
+   "warum_en": "",
+   "quelle": "Wehrmachtberichte März 1945; Deutsche Wochenschau 754/755 (nur verlinkt)",
+   "quelle_en": "Wehrmacht reports March 1945; German newsreel 754/755 (linked only)"
+  },
+  {
+   "id": "gegenangriff",
+   "side": "dt",
+   "kurz": "Der Gegenangriff, 21.–30. April",
+   "kurz_en": "The counterattack, 21–30 April",
+   "warum": "",
+   "warum_en": "",
+   "quelle": "OKW-Berichte; Sowinformbüro; Ziemke; polnische Dokumente",
+   "quelle_en": "OKW reports; Soviet Information Bureau; Ziemke; Polish documents"
+  },
+  {
+   "id": "meldungen",
+   "side": "sow",
+   "kurz": "Zwei Meldungen, eine Stadt",
+   "kurz_en": "Two reports, one town",
+   "warum": "",
+   "warum_en": "",
+   "quelle": "Sowinformbüro 21.4.; OKW 26.4.; die Zahlen der letzten Kriegswoche",
+   "quelle_en": "Soviet Information Bureau 21 April; OKW 26 April; the figures of the last week of the war"
+  },
+  {
+   "id": "bunker",
+   "side": "hist",
+   "kurz": "Der Bunker: die Meldung wird zur Weisung",
+   "kurz_en": "The bunker: the report becomes an order",
+   "warum": "",
+   "warum_en": "",
+   "quelle": "Ziemke nach den Akten von OKH und OKW",
+   "quelle_en": "Ziemke from the files of OKH and OKW"
+  },
+  {
+   "id": "verbrechen",
+   "side": "zivil",
+   "kurz": "Horka, Niederkaina, das Außenlager",
+   "kurz_en": "Horka, Niederkaina, the subcamp",
+   "warum": "",
+   "warum_en": "",
+   "quelle": "Polnische Kommission 1945; weitere gemeinfreie Belege werden gesucht",
+   "quelle_en": "Polish commission 1945; further public-domain evidence being sought"
+  },
+  {
+   "id": "zwischen",
+   "side": "zivil",
+   "kurz": "Zwischen den Fronten",
+   "kurz_en": "Between the fronts",
+   "warum": "",
+   "warum_en": "",
+   "quelle": "Sorbische Dörfer, Flüchtlinge, Volkssturm, Hitlerjugend",
+   "quelle_en": "Sorbian villages, refugees, Volkssturm, Hitler Youth"
+  },
+  {
+   "id": "nachleben",
+   "side": "rezeption",
+   "kurz": "Nachleben: Denkmäler und der „letzte Sieg“",
+   "kurz_en": "Afterlife: memorials and the 'last victory'",
+   "warum": "",
+   "warum_en": "",
+   "quelle": "Denkmäler Horka 1967/1980, Niederkaina; Volksrepublik Polen, DDR, heute",
+   "quelle_en": "Memorials at Horka 1967/1980, Niederkaina; People's Poland, GDR, today"
+  }
+ ],
+ "missing": []
+}
