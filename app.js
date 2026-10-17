@@ -113,7 +113,7 @@ const OVERVIEW = {
       ["Wer meldete was?", "Zwei Siegesmeldungen über eine Stadt, fünf Tage auseinander, dazu die Lagebeurteilung im Führerbunker. Die Meldungen der letzten Kriegswoche zählen Panzer, Gefangene und Tote; der Apparat legt die Zahlen nebeneinander und nennt, wer welche nennt."],
       ["Warum keine Wochenschau?", "Die Deutsche Wochenschau endete am 22. März 1945. Ihre letzte Gegenoffensive war Lauban, Anfang März, mit Goebbels auf dem Markt. Für Bautzen blieben der Wehrmachtbericht, der Rundfunk und die Zeitung."],
       ["Wessen Gewalt?", "Die Kämpfe trafen Soldaten, Gefangene, Verwundete, Häftlinge und Dörfer. Der Apparat nennt die Verbrechen aller Seiten mit ihren Belegen und sagt, wo die Belege dünn oder umstritten sind."],
-      ["Lässt sich das spielen?", "Ein Begleitspiel ist in Arbeit: ein Hexspiel auf der Karte des Deutschen Reiches, in dem die eigene Abendmeldung nach oben wirkt. Verbrechen sind darin nie ein Spielzug; sie stehen als Chronik mit ihrer Quelle."]
+      ["Lässt sich das spielen?", "Das Begleitspiel „Freigekämpft“ ist ein Hexspiel auf der Karte des Deutschen Reiches, in dem die eigene Abendmeldung nach oben wirkt und der Bunker sie beim Wort nimmt. Verbrechen sind darin nie ein Spielzug; sie stehen als Chronik mit ihrer Quelle in diesem Apparat. Es erscheint auf itch.io (leofassb.itch.io/freigekaempft); der Link steht unten auf jeder Seite."]
     ],
     none: "Die ersten Module sind in Arbeit; die Seite „Texte“ nennt sie mit ihren Quellen.",
     have: "Was der Apparat enthält", qs: "Die Fragen"
@@ -127,7 +127,7 @@ const OVERVIEW = {
       ["Who reported what?", "Two victory reports about one town, five days apart, and the situation report in the Führer bunker. The reports of the last week of the war count tanks, prisoners and dead; the apparatus sets the figures side by side and says who gives which."],
       ["Why no newsreel?", "The German newsreel ended on 22 March 1945. Its last counteroffensive was Lauban, early in March, with Goebbels in the market square. For Bautzen there remained the Wehrmacht report, the radio and the newspaper."],
       ["Whose violence?", "The fighting struck soldiers, prisoners, wounded men, camp prisoners and villages. The apparatus names the crimes of all sides with their evidence and says where the evidence is thin or disputed."],
-      ["Can it be played?", "A companion game is in preparation: a hex game on the map of the German Reich in which your own evening report travels upward. Crimes are never a move in it; they appear as chronicle with their source."]
+      ["Can it be played?", "The companion game \"Fought Free\" is a hex game on the map of the German Reich in which your own evening report travels upward and the bunker takes it at its word. Crimes are never a move in it; they appear as chronicle with their source in this apparatus. It is published on itch.io (leofassb.itch.io/freigekaempft); the link is at the foot of every page."]
     ],
     none: "The first modules are in preparation; the Texts page lists them with their sources.",
     have: "What the apparatus contains", qs: "The questions"

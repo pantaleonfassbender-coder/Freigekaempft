@@ -4,7 +4,9 @@ Ein zweisprachiger Quellenapparat (Deutsch/Englisch) zur letzten Offensive der W
 
 *A bilingual documentary apparatus (German/English) on the last offensive of the Wehrmacht in the East, the counterattack of Army Group Centre at Bautzen, 21–30 April 1945, read through its reports.*
 
-Live: https://freigekaempft.netlify.app/ (im Aufbau)
+Live: https://freigekaempft.netlify.app/
+
+Begleitspiel: https://leofassb.itch.io/freigekaempft (Hexspiel, bezahlt)
 
 ## Quellen
 
