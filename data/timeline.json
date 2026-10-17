@@ -155,6 +155,20 @@
    "key": "1945-04-20"
   },
   {
+   "key": "1945-04-21a",
+   "d": "21. April 1945",
+   "d_en": "21 April 1945",
+   "side": "sow",
+   "titel": "Moskau: Bautzen „vollständig genommen“",
+   "titel_en": "Moscow: Bautzen “taken entirely”",
+   "text": "Das Sowjetische Informationsbüro meldet Kamenz und Bautzen genommen, die deutschen Gegenangriffe abgewehrt.",
+   "text_en": "The Soviet Information Bureau reports Kamenz and Bautzen taken and the German counterattacks beaten off.",
+   "cite": "#/text/meldungen/moskau/2",
+   "citeLabel": "Meldungen [2]",
+   "citeLabel_en": "Reports [2]",
+   "plate": "sib21"
+  },
+  {
    "key": "1945-04-21b",
    "d": "21. April 1945",
    "d_en": "21 April 1945",
@@ -166,6 +180,32 @@
    "cite": "#/text/gegenangriff/angriff/1",
    "citeLabel": "Gegenangriff [1]",
    "citeLabel_en": "Counterattack [1]"
+  },
+  {
+   "key": "1945-04-21c",
+   "d": "21. April 1945",
+   "d_en": "21 April 1945",
+   "side": "hist",
+   "titel": "Die „Grundweisung“",
+   "titel_en": "The “basic order”",
+   "text": "Aus dem örtlichen Fortschritt nordwestlich Görlitz leitet Hitler eine Weisung für die Front um Berlin ab; Ziemke nennt sie eine Illusion.",
+   "text_en": "From the local progress north-west of Görlitz Hitler derives an order for the front around Berlin; Ziemke calls it an illusion.",
+   "cite": "#/text/bunker/weisung/1",
+   "citeLabel": "Bunker [1]",
+   "citeLabel_en": "Bunker [1]"
+  },
+  {
+   "key": "1945-04-22",
+   "d": "22. April 1945",
+   "d_en": "22 April 1945",
+   "side": "hist",
+   "titel": "„Schoerner's attack … was succeeding“",
+   "titel_en": "“Schoerner's attack … was succeeding”",
+   "text": "Mittags erklärt Hitler den Krieg für verloren; am Abend lässt er Heinrici sagen, Schörners Angriff östlich Bautzen habe Erfolg.",
+   "text_en": "At midday Hitler declares the war lost; in the evening he has Heinrici told that Schörner's attack east of Bautzen is succeeding.",
+   "cite": "#/text/bunker/weisung/3",
+   "citeLabel": "Bunker [3]",
+   "citeLabel_en": "Bunker [3]"
   },
   {
    "key": "1945-04-24",
@@ -196,6 +236,34 @@
    "plate": "sib25"
   },
   {
+   "key": "1945-04-26b",
+   "d": "26. April 1945",
+   "d_en": "26 April 1945",
+   "side": "dt",
+   "titel": "„Bautzen freigekämpft“",
+   "titel_en": "“Bautzen fought free”",
+   "text": "Der Wehrmachtbericht meldet die Besatzung von Bautzen freigekämpft; die Zeitung setzt es in die Schlagzeile. Im Bunker gilt Bautzen als Beweis, dass „der Wille“ noch siegt.",
+   "text_en": "The Wehrmacht report announces the Bautzen garrison fought free; the newspaper puts it in the headline. In the bunker Bautzen counts as proof that 'the will' still prevails.",
+   "cite": "#/text/meldungen/okw/3",
+   "citeLabel": "Meldungen [3]",
+   "citeLabel_en": "Reports [3]",
+   "plate": "mzbautzen"
+  },
+  {
+   "key": "1945-04-27",
+   "d": "27. April 1945",
+   "d_en": "27 April 1945",
+   "side": "hist",
+   "titel": "„keep on attacking north from Bautzen“",
+   "titel_en": "“keep on attacking north from Bautzen”",
+   "text": "Keitel weist Schörner an, bei Abreißen der Verbindung weiter von Bautzen nach Norden anzugreifen.",
+   "text_en": "Keitel directs Schörner, if contact is lost, to keep attacking north from Bautzen.",
+   "cite": "#/text/bunker/wille/6",
+   "citeLabel": "Bunker [6]",
+   "citeLabel_en": "Bunker [6]",
+   "plate": "ziemke483"
+  },
+  {
    "key": "1945-04-29",
    "d": "29. April 1945",
    "d_en": "29 April 1945",
@@ -210,6 +278,20 @@
    "plate": "vizgegenangriff"
   },
   {
+   "key": "1945-04-30",
+   "d": "30. April 1945",
+   "d_en": "30 April 1945",
+   "side": "hist",
+   "titel": "„Der Versuch, Berlin zu entsetzen, ist gescheitert“",
+   "titel_en": "“The attempt to relieve Berlin has failed”",
+   "text": "Hitler nimmt sich das Leben. Keitels Weisung für den Süden: ein „großer Ring“, und jede Auflösung „mit rücksichtsloser Gewalt“ niederschlagen.",
+   "text_en": "Hitler kills himself. Keitel's directive for the south: a 'great ring', and every dissolution to be put down 'with ruthless force'.",
+   "cite": "#/text/bunker/ende/7",
+   "citeLabel": "Bunker [7]",
+   "citeLabel_en": "Bunker [7]",
+   "plate": "vizbunker"
+  },
+  {
    "key": "1945-05-01",
    "d": "1. Mai 1945",
    "d_en": "1 May 1945",
@@ -221,6 +303,46 @@
    "cite": "#/text/gegenangriff/norden/13",
    "citeLabel": "Gegenangriff [13]",
    "citeLabel_en": "Counterattack [13]"
+  },
+  {
+   "key": "1945-05-03",
+   "d": "3. Mai 1945",
+   "d_en": "3 May 1945",
+   "side": "dt",
+   "titel": "„Das sind unsere Jungen“",
+   "titel_en": "“Those are our boys”",
+   "text": "Das Deutsche Nachrichtenbüro erzählt von Fünfzehn- und Sechzehnjährigen in der Verteidigung von Bautzen.",
+   "text_en": "The German News Bureau tells of fifteen- and sixteen-year-olds in the defence of Bautzen.",
+   "cite": "#/text/meldungen/danach/4",
+   "citeLabel": "Meldungen [4]",
+   "citeLabel_en": "Reports [4]",
+   "plate": "mzjungen"
+  },
+  {
+   "key": "1945-05-07",
+   "d": "7. Mai 1945",
+   "d_en": "7 May 1945",
+   "side": "dt",
+   "titel": "14.600 Tote und ein falscher Heldentod",
+   "titel_en": "14,600 dead and a false hero's death",
+   "text": "Am Tag vor der Kapitulation druckt die Zeitung 14.600 Tote „im Großraum von Bautzen“ vor einer Division und die Meldung, Goebbels und Keitel seien „gefallen“.",
+   "text_en": "On the day before the capitulation the newspaper prints 14,600 dead 'in the greater Bautzen area' in front of one division and the report that Goebbels and Keitel had 'fallen'.",
+   "cite": "#/text/meldungen/danach/5",
+   "citeLabel": "Meldungen [5]",
+   "citeLabel_en": "Reports [5]"
+  },
+  {
+   "key": "1945-05-08",
+   "d": "8. Mai 1945",
+   "d_en": "8 May 1945",
+   "side": "hist",
+   "titel": "Schörner verlässt seine Truppen",
+   "titel_en": "Schörner leaves his troops",
+   "text": "Am Tag der Kapitulation fliegt Schörner in Zivil aus der Tschechoslowakei; zehn Tage später wird er in Österreich festgenommen.",
+   "text_en": "On the day of the capitulation Schörner flies out of Czechoslovakia in civilian clothes; ten days later he is arrested in Austria.",
+   "cite": "#/text/bunker/ende/9",
+   "citeLabel": "Bunker [9]",
+   "citeLabel_en": "Bunker [9]"
   },
   {
    "key": "1945-05-09",

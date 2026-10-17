@@ -37,6 +37,11 @@ SEITE = {
     "mzkamenz": ("Marburger Zeitung Nr. 115, 25.4.1945, S. 1 (Ausschnitt); dLib.si", "https://www.dlib.si/details/URN:NBN:SI:DOC-YQUEVGVE"),
     "mzkamenz2": ("Marburger Zeitung Nr. 121, 1.5.1945, S. 2 (Ausschnitt); dLib.si", "https://www.dlib.si/details/URN:NBN:SI:DOC-WTLJFS5P"),
     "sib25": ("Сообщения Советского Информбюро, т. 8 (Москва 1945), S. 186 (Ausschnitt); booksite.ru", "https://www.booksite.ru/fulltext/inform8/index.htm"),
+    "sib21": ("Сообщения Советского Информбюро, т. 8 (Москва 1945), S. 180 (Ausschnitt); booksite.ru", "https://www.booksite.ru/fulltext/inform8/index.htm"),
+    "mzbautzen": ("Marburger Zeitung Nr. 117, 27.4.1945, S. 1 (Ausschnitt); dLib.si", "https://www.dlib.si/details/URN:NBN:SI:DOC-YYEMNBC2"),
+    "mzjungen": ("Marburger Zeitung Nr. 124, 4.5.1945, S. 1 (Ausschnitt); dLib.si", "https://www.dlib.si/details/URN:NBN:SI:DOC-J0J8RBGY"),
+    "ziemke483": ("Earl F. Ziemke, Stalingrad to Berlin (CMH 1968/1987), S. 483 (Ausschnitt); Internet Archive, gemeinfrei",
+                  "https://archive.org/details/StalingradToBerlinTheGermanDefeatInTheEast-nsia"),
 }
 
 # id, Seite, Quelle ("commons:Datei", "viz:Datei" oder "seite:id"), Titel, Titel EN, Bildunterschrift, EN, Verweis
@@ -89,6 +94,26 @@ PLATES = [
      "Сообщения Советского Информбюро, Band 8, Seite 186: die Meldung für den 25. April mit den abgewehrten Gegenangriffen bei Bautzen.",
      "Soobshcheniya Sovetskogo Informbyuro, vol. 8, p. 186: the report for 25 April with the counterattacks repulsed at Bautzen.",
      "#/text/gegenangriff/kamenz/9"),
+    ("sib21", "sow", "seite:sib21", "„… полностью овладели городом Бауцен“", "“… took the town of Bautzen entirely”",
+     "Сообщения Советского Информбюро, Band 8, Seite 180: der Bericht zum 21. April, der Bautzen als vollständig genommen meldet, „einen Knotenpunkt von vier Eisenbahnen und vielen Landstraßen“.",
+     "Soobshcheniya Sovetskogo Informbyuro, vol. 8, p. 180: the account for 21 April reporting Bautzen as taken entirely, 'a junction of four railways and many highways'.",
+     "#/text/meldungen/moskau/2"),
+    ("mzbautzen", "dt", "seite:mzbautzen", "„Bautzen freigekämpft“", "“Bautzen fought free”",
+     "Schlagzeile der Marburger Zeitung vom 27. April 1945 über dem Wehrmachtbericht vom 26. April: Bautzen als vierte Zeile, nach Bremen, Berlin und Brünn. Ausschnitt ohne Zeitungskopf.",
+     "Headline of the Marburger Zeitung of 27 April 1945 above the Wehrmacht report of 26 April: Bautzen in the fourth line, after Bremen, Berlin and Brno. Excerpt without masthead.",
+     "#/text/meldungen/okw/3"),
+    ("mzjungen", "dt", "seite:mzjungen", "„Das sind unsere Jungen“", "“Those are our boys”",
+     "Die dnb-Meldung vom 3. Mai 1945 in der Marburger Zeitung vom 4. Mai: Fünfzehn- und Sechzehnjährige aus dem Wehrertüchtigungslager in der Verteidigung von Bautzen, als Heldengeschichte erzählt.",
+     "The dnb report of 3 May 1945 in the Marburger Zeitung of 4 May: fifteen- and sixteen-year-olds from the military-training camp in the defence of Bautzen, told as a hero story.",
+     "#/text/meldungen/danach/4"),
+    ("vizbunker", "hist", "viz:vizbunker", "Bautzen in drei Lagen", "Bautzen in three registers",
+     "Grafik des Apparats: was Moskau öffentlich meldete, was das OKW öffentlich meldete, und was im Führerbunker nach Ziemke aus Bautzen wurde, vom 21. April bis zum 8. Mai.",
+     "The apparatus's graphic: what Moscow publicly reported, what the OKW publicly reported, and what Bautzen became in the Führer bunker according to Ziemke, from 21 April to 8 May.",
+     "#/text/bunker/wille/5"),
+    ("ziemke483", "hist", "seite:ziemke483", "„when the will is there“", "“when the will is there”",
+     "Earl F. Ziemke, Stalingrad to Berlin (1968), Seite 483: der 26. April als „the day of hopes“, und Schörners Angriff bei Bautzen als Beweis, dass „wenn der Wille da ist“, der Feind noch heute zu schlagen sei.",
+     "Earl F. Ziemke, Stalingrad to Berlin (1968), page 483: 26 April as 'the day of hopes', and Schörner's attack at Bautzen as proof that 'when the will is there' the enemy can be defeated even today.",
+     "#/text/bunker/wille/5"),
 ]
 
 

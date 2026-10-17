@@ -36,6 +36,14 @@ SEITEN = {
     "mzkamenz2": ("mz/mz-1945-05-01.pdf", 1, (203, 308, 402, 362), 190),
     # Сообщения Советского Информбюро, Bd. 8, S. 186: Оперативная сводка за 25 апреля (Bautzen)
     "sib25": ("sovinformburo-t8-1945.pdf", 184, (0, 480, 431, 540), 200),
+    # Сообщения Советского Информбюро, Bd. 8, S. 180: der Bericht zum 21. April (rechte Spalte)
+    "sib21": ("sovinformburo-t8-1945.pdf", 178, (215, 390, 431, 562), 220),
+    # Marburger Zeitung Nr. 117, 27.4.1945, S. 1: Schlagzeile mit „Bautzen freigekämpft“ (ohne Zeitungskopf)
+    "mzbautzen": ("mz/mz-1945-04-27.pdf", 0, (0, 222, 600, 312), 150),
+    # Marburger Zeitung Nr. 124, 4.5.1945, S. 1: dnb „Das sind unsere Jungen“, Anfang
+    "mzjungen": ("mz/mz-1945-05-04.pdf", 0, (205, 1228, 405, 1462), 170),
+    # Ziemke S. 483, rechte Spalte: „Weidling remembered 26 April …“
+    "ziemke483": ("ziemke-cmh-1987.pdf", 495, (232, 102, 452, 270), 170),
 }
 
 

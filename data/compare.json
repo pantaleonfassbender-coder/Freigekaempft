@@ -3,6 +3,78 @@
  "lede_en": "The same days, two reports: what the High Command of the Wehrmacht and the Soviet Information Bureau said about the same places.",
  "pairs": [
   {
+   "id": "bautzen",
+   "titel": "Bautzen: genommen oder freigekämpft?",
+   "titel_en": "Bautzen: taken or fought free?",
+   "frage": "Moskau meldet am 21. April Bautzen vollständig genommen, das OKW am 26. April die Besatzung freigekämpft. Was meldet jede Seite, und was verschweigt sie?",
+   "frage_en": "On 21 April Moscow reports Bautzen taken entirely, on 26 April the OKW reports its garrison fought free. What does each side report, and what does it keep silent about?",
+   "note": "Beide Meldungen können zugleich in Teilen stimmen. Nach der neueren Literatur, hier nicht am Original geprüft, war Bautzen am 21. April umkämpft und zum großen Teil in sowjetischer Hand, eine deutsche Besatzung hielt sich in der Ortenburg, und der Gegenangriff erreichte die Stadt einige Tage später. Keine der beiden Meldungen sagt das. Moskau meldet nach dem 26. April nichts mehr über Bautzen, das OKW keinen Verlust der Stadt.",
+   "note_en": "Both reports can be partly true at once. According to recent literature, not checked against an original here, Bautzen was fought over on 21 April and largely in Soviet hands, a German garrison held out in the Ortenburg, and the counterattack reached the town some days later. Neither report says so. After 26 April Moscow reports nothing more about Bautzen, the OKW no loss of the town.",
+   "voices": [
+    {
+     "side": "sow",
+     "autor": "Sowjetisches Informationsbüro",
+     "autor_en": "Soviet Information Bureau",
+     "text": "meldungen",
+     "sec": "moskau",
+     "n": [
+      2
+     ]
+    },
+    {
+     "side": "dt",
+     "autor": "Oberkommando der Wehrmacht",
+     "autor_en": "High Command of the Wehrmacht",
+     "text": "meldungen",
+     "sec": "okw",
+     "n": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wille",
+   "titel": "26. April: Meldung und Bunker",
+   "titel_en": "26 April: report and bunker",
+   "frage": "Am selben Tag: was das OKW öffentlich meldete, was im Bunker daraus gemacht wurde, und wie Ziemke den Angriff beurteilt.",
+   "frage_en": "On the same day: what the OKW publicly reported, what the bunker made of it, and how Ziemke judges the attack.",
+   "note": "„Freigekämpft“ in der Zeitung, „wenn der Wille da ist“ im Bunker, „close to a standstill“ in den Akten der Heeresgruppe Weichsel: drei Sätze über denselben Angriff am selben Tag.",
+   "note_en": "'Fought free' in the newspaper, 'when the will is there' in the bunker, 'close to a standstill' in the files of Army Group Vistula: three sentences about the same attack on the same day.",
+   "voices": [
+    {
+     "side": "dt",
+     "autor": "Oberkommando der Wehrmacht",
+     "autor_en": "High Command of the Wehrmacht",
+     "text": "meldungen",
+     "sec": "okw",
+     "n": [
+      3
+     ]
+    },
+    {
+     "side": "hist",
+     "autor": "Earl F. Ziemke (1968), nach den Akten",
+     "autor_en": "Earl F. Ziemke (1968), from the files",
+     "text": "bunker",
+     "sec": "wille",
+     "n": [
+      5
+     ]
+    },
+    {
+     "side": "hist",
+     "autor": "Earl F. Ziemke (1968), nach den Akten",
+     "autor_en": "Earl F. Ziemke (1968), from the files",
+     "text": "gegenangriff",
+     "sec": "norden",
+     "n": [
+      10
+     ]
+    }
+   ]
+  },
+  {
    "id": "bischofswerda",
    "titel": "Bischofswerda, 22. April",
    "titel_en": "Bischofswerda, 22 April",

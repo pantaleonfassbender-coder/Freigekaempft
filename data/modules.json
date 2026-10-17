@@ -32,29 +32,31 @@
    "quelle": "Wehrmachtberichte 21.4.–1.5.1945 (Marburger Zeitung 23.4.–2.5.); Сообщения Советского Информбюро, т. 8 (1945) S. 181–188; Ziemke S. 477, 485",
    "datei": "gegenangriff",
    "zk": "Gegenangriff"
-  }
- ],
- "planned": [
+  },
   {
    "id": "meldungen",
    "side": "sow",
    "kurz": "Zwei Meldungen, eine Stadt",
    "kurz_en": "Two reports, one town",
-   "warum": "",
-   "warum_en": "",
-   "quelle": "Sowinformbüro 21.4.; OKW 26.4.; die Zahlen der letzten Kriegswoche",
-   "quelle_en": "Soviet Information Bureau 21 April; OKW 26 April; the figures of the last week of the war"
+   "warum": "Moskau meldet am 21. April Bautzen vollständig genommen, das OKW am 26. April die Besatzung freigekämpft. Danach machte die deutsche Presse aus Bautzen zwei Geschichten: die Fünfzehnjährigen und die 14.600 Toten.",
+   "warum_en": "On 21 April Moscow reports Bautzen taken entirely, on 26 April the OKW reports its garrison fought free. Afterwards the German press made two stories out of Bautzen: the fifteen-year-olds and the 14,600 dead.",
+   "quelle": "Сообщения Советского Информбюро, т. 8 (1945) S. 180; Wehrmachtbericht 26.4.1945 und dnb-Meldungen (Marburger Zeitung 27.4., 4.5., 7.5.1945)",
+   "datei": "meldungen",
+   "zk": "Meldungen"
   },
   {
    "id": "bunker",
    "side": "hist",
    "kurz": "Der Bunker: die Meldung wird zur Weisung",
    "kurz_en": "The bunker: the report becomes an order",
-   "warum": "",
-   "warum_en": "",
-   "quelle": "Ziemke nach den Akten von OKH und OKW",
-   "quelle_en": "Ziemke from the files of OKH and OKW"
-  },
+   "warum": "Was im Führerbunker aus dem Gegenangriff wurde: eine Grundweisung, ein Beweis des Willens, ein Befehl nach Norden, der „große Ring“ im Süden. Dazu die letzte falsche Meldung und Schörners Ende.",
+   "warum_en": "What the counterattack became in the Führer bunker: a basic order, proof of the will, an order northward, the 'great ring' in the south. With the last false report and Schörner's end.",
+   "quelle": "Ziemke, Stalingrad to Berlin (CMH 1968) S. 477–479, 483, 486, 493–494, 498; dnb-Meldung 6.5.1945 (Marburger Zeitung 7.5.)",
+   "datei": "bunker",
+   "zk": "Bunker"
+  }
+ ],
+ "planned": [
   {
    "id": "verbrechen",
    "side": "zivil",

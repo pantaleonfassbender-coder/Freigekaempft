@@ -135,6 +135,61 @@
    "source": "Сообщения Советского Информбюро, т. 8 (Москва 1945), S. 186 (Ausschnitt); booksite.ru",
    "url": "https://www.booksite.ru/fulltext/inform8/index.htm",
    "cite": "#/text/gegenangriff/kamenz/9"
+  },
+  {
+   "id": "sib21",
+   "side": "sow",
+   "titel": "„… полностью овладели городом Бауцен“",
+   "titel_en": "“… took the town of Bautzen entirely”",
+   "caption": "Сообщения Советского Информбюро, Band 8, Seite 180: der Bericht zum 21. April, der Bautzen als vollständig genommen meldet, „einen Knotenpunkt von vier Eisenbahnen und vielen Landstraßen“.",
+   "caption_en": "Soobshcheniya Sovetskogo Informbyuro, vol. 8, p. 180: the account for 21 April reporting Bautzen as taken entirely, 'a junction of four railways and many highways'.",
+   "source": "Сообщения Советского Информбюро, т. 8 (Москва 1945), S. 180 (Ausschnitt); booksite.ru",
+   "url": "https://www.booksite.ru/fulltext/inform8/index.htm",
+   "cite": "#/text/meldungen/moskau/2"
+  },
+  {
+   "id": "mzbautzen",
+   "side": "dt",
+   "titel": "„Bautzen freigekämpft“",
+   "titel_en": "“Bautzen fought free”",
+   "caption": "Schlagzeile der Marburger Zeitung vom 27. April 1945 über dem Wehrmachtbericht vom 26. April: Bautzen als vierte Zeile, nach Bremen, Berlin und Brünn. Ausschnitt ohne Zeitungskopf.",
+   "caption_en": "Headline of the Marburger Zeitung of 27 April 1945 above the Wehrmacht report of 26 April: Bautzen in the fourth line, after Bremen, Berlin and Brno. Excerpt without masthead.",
+   "source": "Marburger Zeitung Nr. 117, 27.4.1945, S. 1 (Ausschnitt); dLib.si",
+   "url": "https://www.dlib.si/details/URN:NBN:SI:DOC-YYEMNBC2",
+   "cite": "#/text/meldungen/okw/3"
+  },
+  {
+   "id": "mzjungen",
+   "side": "dt",
+   "titel": "„Das sind unsere Jungen“",
+   "titel_en": "“Those are our boys”",
+   "caption": "Die dnb-Meldung vom 3. Mai 1945 in der Marburger Zeitung vom 4. Mai: Fünfzehn- und Sechzehnjährige aus dem Wehrertüchtigungslager in der Verteidigung von Bautzen, als Heldengeschichte erzählt.",
+   "caption_en": "The dnb report of 3 May 1945 in the Marburger Zeitung of 4 May: fifteen- and sixteen-year-olds from the military-training camp in the defence of Bautzen, told as a hero story.",
+   "source": "Marburger Zeitung Nr. 124, 4.5.1945, S. 1 (Ausschnitt); dLib.si",
+   "url": "https://www.dlib.si/details/URN:NBN:SI:DOC-J0J8RBGY",
+   "cite": "#/text/meldungen/danach/4"
+  },
+  {
+   "id": "vizbunker",
+   "side": "hist",
+   "titel": "Bautzen in drei Lagen",
+   "titel_en": "Bautzen in three registers",
+   "caption": "Grafik des Apparats: was Moskau öffentlich meldete, was das OKW öffentlich meldete, und was im Führerbunker nach Ziemke aus Bautzen wurde, vom 21. April bis zum 8. Mai.",
+   "caption_en": "The apparatus's graphic: what Moscow publicly reported, what the OKW publicly reported, and what Bautzen became in the Führer bunker according to Ziemke, from 21 April to 8 May.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/bunker/wille/5"
+  },
+  {
+   "id": "ziemke483",
+   "side": "hist",
+   "titel": "„when the will is there“",
+   "titel_en": "“when the will is there”",
+   "caption": "Earl F. Ziemke, Stalingrad to Berlin (1968), Seite 483: der 26. April als „the day of hopes“, und Schörners Angriff bei Bautzen als Beweis, dass „wenn der Wille da ist“, der Feind noch heute zu schlagen sei.",
+   "caption_en": "Earl F. Ziemke, Stalingrad to Berlin (1968), page 483: 26 April as 'the day of hopes', and Schörner's attack at Bautzen as proof that 'when the will is there' the enemy can be defeated even today.",
+   "source": "Earl F. Ziemke, Stalingrad to Berlin (CMH 1968/1987), S. 483 (Ausschnitt); Internet Archive, gemeinfrei",
+   "url": "https://archive.org/details/StalingradToBerlinTheGermanDefeatInTheEast-nsia",
+   "cite": "#/text/bunker/wille/5"
   }
  ]
 }
