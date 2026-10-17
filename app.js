@@ -45,7 +45,8 @@ const SIDES = {
 };
 const LANGS = {
   de: { de: "Deutsch", en: "German" }, fr: { de: "Französisch", en: "French" },
-  ru: { de: "Russisch", en: "Russian" }, pl: { de: "Polnisch", en: "Polish" }, en: { de: "Englisch", en: "English" }
+  ru: { de: "Russisch", en: "Russian" }, pl: { de: "Polnisch", en: "Polish" }, en: { de: "Englisch", en: "English" },
+  mul: { de: "Russisch, Polnisch, Deutsch, Sorbisch", en: "Russian, Polish, German, Sorbian" }
 };
 /* a field in the reader's language: o.k_en in English if present, else o.k */
 const L = (o, k) => (o && ui === "en" && o[k + "_en"] != null) ? o[k + "_en"] : (o ? o[k] : "");

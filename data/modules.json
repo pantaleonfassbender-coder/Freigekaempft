@@ -54,39 +54,41 @@
    "quelle": "Ziemke, Stalingrad to Berlin (CMH 1968) S. 477–479, 483, 486, 493–494, 498; dnb-Meldung 6.5.1945 (Marburger Zeitung 7.5.)",
    "datei": "bunker",
    "zk": "Bunker"
-  }
- ],
- "planned": [
+  },
   {
    "id": "verbrechen",
    "side": "zivil",
    "kurz": "Horka, Niederkaina, das Außenlager",
    "kurz_en": "Horka, Niederkaina, the subcamp",
-   "warum": "",
-   "warum_en": "",
-   "quelle": "Polnische Kommission 1945; weitere gemeinfreie Belege werden gesucht",
-   "quelle_en": "Polish commission 1945; further public-domain evidence being sought"
+   "warum": "Gewalt aller Seiten in und um die Schlacht: Standgerichte, die Gewalt der Roten Armee und ihr Gebrauch durch die Propaganda, nach Ziemke; dann, als Referat der neueren Literatur, die getöteten polnischen Verwundeten von Horka, die getöteten Volkssturmmänner von Niederkaina und die Häftlinge des Außenlagers. Keine Meldung von 1945 nennt eines dieser Verbrechen.",
+   "warum_en": "Violence by all sides in and around the battle: courts-martial, Red Army violence and its use by propaganda, after Ziemke; then, as a summary of recent literature, the Polish wounded killed at Horka, the Volkssturm men killed at Niederkaina and the prisoners of the subcamp. No report of 1945 names any of these crimes.",
+   "quelle": "Ziemke, Stalingrad to Berlin (CMH 1968) S. 488–490; Referat nach Kopociński/Kopociński 2021, Kania 2023, Seidel 2005 und dem Gedenkstättenportal der bpb",
+   "datei": "verbrechen",
+   "zk": "Verbrechen"
   },
   {
    "id": "zwischen",
    "side": "zivil",
    "kurz": "Zwischen den Fronten",
    "kurz_en": "Between the fronts",
-   "warum": "",
-   "warum_en": "",
-   "quelle": "Sorbische Dörfer, Flüchtlinge, Volkssturm, Hitlerjugend",
-   "quelle_en": "Sorbian villages, refugees, Volkssturm, Hitler Youth"
+   "warum": "Wer zwischen den Fronten stand und in den Meldungen kaum vorkommt: „Rückgeführte“ und „Volksgenossen“, die gesucht werden durften, befreite Kriegsgefangene ohne Namen, und die Sorben der umkämpften Dörfer. Mit einer Zählung, wer in den Zeitungen und Meldungen dieser Wochen vorkommt.",
+   "warum_en": "Those who stood between the fronts and hardly appear in the reports: 'evacuees' and 'national comrades' who could be searched for, freed prisoners of war without names, and the Sorbs of the contested villages. With a count of who appears in the newspapers and reports of these weeks.",
+   "quelle": "Marburger Zeitung 19.4., 30.4., 7.5.1945; Сообщения Советского Информбюро, т. 8 (1945) S. 186; Referat nach der Domowina",
+   "datei": "zwischen",
+   "zk": "Zwischen"
   },
   {
    "id": "nachleben",
    "side": "rezeption",
    "kurz": "Nachleben: Denkmäler und der „letzte Sieg“",
    "kurz_en": "Afterlife: memorials and the 'last victory'",
-   "warum": "",
-   "warum_en": "",
-   "quelle": "Denkmäler Horka 1967/1980, Niederkaina; Volksrepublik Polen, DDR, heute",
-   "quelle_en": "Memorials at Horka 1967/1980, Niederkaina; People's Poland, GDR, today"
+   "warum": "Worauf die Darstellungen ruhten, nach Ziemkes Bemerkung über die Quellen; ein Gedenkstein in Bautzen, dessen vier Inschriften Verschiedenes sagen; die Denkmäler; Sieg und Schweigen in der Volksrepublik Polen; und der „letzte Sieg“ als Etikett.",
+   "warum_en": "What the accounts rested on, after Ziemke's note on the sources; a memorial stone in Bautzen whose four inscriptions say different things; the memorials; victory and silence in the Polish People's Republic; and the 'last victory' as a label.",
+   "quelle": "Ziemke, Stalingrad to Berlin (CMH 1968) S. 507, 510; Inschrift des Gedenksteins in Bautzen (Foto 2006); Referate",
+   "datei": "nachleben",
+   "zk": "Nachleben"
   }
  ],
+ "planned": [],
  "missing": []
 }

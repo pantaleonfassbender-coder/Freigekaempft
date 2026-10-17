@@ -44,6 +44,14 @@ SEITEN = {
     "mzjungen": ("mz/mz-1945-05-04.pdf", 0, (205, 1228, 405, 1462), 170),
     # Ziemke S. 483, rechte Spalte: „Weidling remembered 26 April …“
     "ziemke483": ("ziemke-cmh-1987.pdf", 495, (232, 102, 452, 270), 170),
+    # Ziemke S. 488, rechte Spalte: „Corpses hanging in the streets …“
+    "ziemke488": ("ziemke-cmh-1987.pdf", 500, (222, 466, 420, 556), 170),
+    # Marburger Zeitung Nr. 120, 30.4.1945, S. 2: „Mit 101 Jahren aus Oberschlesien nach Oberdonau“
+    "mzoppeln": ("mz/mz-1945-04-30.pdf", 1, (805, 963, 1002, 1078), 170),
+    # Marburger Zeitung Nr. 127, 7.5.1945, S. 2: „Schlesischer Suchdienst“
+    "mzsuch": ("mz/mz-1945-05-07.pdf", 1, (385, 972, 588, 1112), 170),
+    # Ziemke S. 507, „Note on Sources“: „In the continuing absence …“
+    "ziemke507": ("ziemke-cmh-1987.pdf", 519, (40, 337, 238, 396), 170),
 }
 
 

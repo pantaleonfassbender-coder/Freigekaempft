@@ -1,8 +1,8 @@
 {
  "lede": "Karten, Seiten der Quellen und die Grafiken des Apparats. Zeitungsseiten erscheinen nur als Ausschnitte ohne Zeitungskopf und ohne Hoheitszeichen. Jede Tafel nennt ihr Original.",
  "lede_en": "Maps, pages of the sources and the apparatus's own graphics. Newspaper pages appear only as excerpts without masthead and without national emblems. Every plate names its original.",
- "credit": "Seitenbilder aus gemeinfreien Digitalisaten (Internet Archive, dLib.si, booksite.ru), jeweils mit ihrem Original genannt; eigene Grafiken CC BY 4.0, Flüsse aus Natural Earth (gemeinfrei).",
- "credit_en": "Page images from public-domain scans (Internet Archive, dLib.si, booksite.ru), each named with its original; the apparatus's own graphics CC BY 4.0, rivers from Natural Earth (public domain).",
+ "credit": "Seitenbilder aus gemeinfreien Digitalisaten (Internet Archive, dLib.si, booksite.ru), jeweils mit ihrem Original genannt; ein gemeinfreies Foto von Wikimedia Commons; eigene Grafiken CC BY 4.0, Flüsse aus Natural Earth (gemeinfrei).",
+ "credit_en": "Page images from public-domain scans (Internet Archive, dLib.si, booksite.ru), each named with its original; a public-domain photo from Wikimedia Commons; the apparatus's own graphics CC BY 4.0, rivers from Natural Earth (public domain).",
  "plates": [
   {
    "id": "vizlage",
@@ -190,6 +190,94 @@
    "source": "Earl F. Ziemke, Stalingrad to Berlin (CMH 1968/1987), S. 483 (Ausschnitt); Internet Archive, gemeinfrei",
    "url": "https://archive.org/details/StalingradToBerlinTheGermanDefeatInTheEast-nsia",
    "cite": "#/text/bunker/wille/5"
+  },
+  {
+   "id": "vizorte",
+   "side": "zivil",
+   "titel": "Orte der Gewalt um Bautzen, April 1945",
+   "titel_en": "Places of violence around Bautzen, April 1945",
+   "caption": "Grafik des Apparats nach der neueren Literatur: Horka und der Fulksberg, Niederkaina, das Außenlager in Bautzen und der Todesmarsch Richtung Nixdorf. Keine Quelle von 1945 nennt einen dieser Orte als Ort eines Verbrechens.",
+   "caption_en": "The apparatus's graphic after recent literature: Horka and the Fulksberg, Niederkaina, the subcamp in Bautzen and the death march towards Nixdorf. No source of 1945 names any of these places as the place of a crime.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/verbrechen/literatur/3"
+  },
+  {
+   "id": "ziemke488",
+   "side": "hist",
+   "titel": "„Corpses hanging in the streets“",
+   "titel_en": "“Corpses hanging in the streets”",
+   "caption": "Earl F. Ziemke, Stalingrad to Berlin (1968), Seite 488: die fliegenden Standgerichte in Berlin, die „nur Todesurteile“ fällten.",
+   "caption_en": "Earl F. Ziemke, Stalingrad to Berlin (1968), page 488: the flying courts-martial in Berlin that 'passed only death sentences'.",
+   "source": "Earl F. Ziemke, Stalingrad to Berlin (CMH 1968/1987), S. 488 (Ausschnitt); Internet Archive, gemeinfrei",
+   "url": "https://archive.org/details/StalingradToBerlinTheGermanDefeatInTheEast-nsia",
+   "cite": "#/text/verbrechen/quellen/1"
+  },
+  {
+   "id": "vizzaehlung",
+   "side": "zivil",
+   "titel": "Wer in den Meldungen vorkommt",
+   "titel_en": "Who appears in the reports",
+   "caption": "Grafik des Apparats: Treffer in der maschinellen Texterkennung der Marburger Zeitung (17. April – 8. Mai) und der Moskauer Meldungen (19. April – 9. Mai). Frauen, Volkssturm und Hitlerjugend kommen vor; polnische Truppen an der Front und die Sorben nicht.",
+   "caption_en": "The apparatus's graphic: hits in the machine-read text of the Marburger Zeitung (17 April – 8 May) and of the Moscow reports (19 April – 9 May). Women, Volkssturm and Hitler Youth appear; Polish troops at the front and the Sorbs do not.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/zwischen/fehlt/5"
+  },
+  {
+   "id": "mzsuch",
+   "side": "dt",
+   "titel": "„Schlesischer Suchdienst“",
+   "titel_en": "“Silesian search service”",
+   "caption": "Marburger Zeitung vom 7. Mai 1945, Seite 2: ein Suchdienst des Senders Görlitz „nur“ für „Volksgenossen“, Zuschriften postlagernd nach Reichenberg. Ausschnitt ohne Zeitungskopf.",
+   "caption_en": "Marburger Zeitung of 7 May 1945, page 2: a search service of the Görlitz station 'only' for 'national comrades', letters poste restante to Reichenberg. Excerpt without masthead.",
+   "source": "Marburger Zeitung Nr. 127, 7.5.1945, S. 2 (Ausschnitt); dLib.si",
+   "url": "https://www.dlib.si/details/URN:NBN:SI:DOC-NAZDZ66I",
+   "cite": "#/text/zwischen/gesucht/3"
+  },
+  {
+   "id": "mzoppeln",
+   "side": "dt",
+   "titel": "„Mit 101 Jahren aus Oberschlesien nach Oberdonau“",
+   "titel_en": "“At 101 from Upper Silesia to Upper Danube”",
+   "caption": "Marburger Zeitung vom 30. April 1945, Seite 2: 28 Bewohnerinnen eines Altersheims aus Oppeln in Bad Ischl, als Geschichte vom glücklichen Ankommen erzählt.",
+   "caption_en": "Marburger Zeitung of 30 April 1945, page 2: 28 residents of an old people's home from Oppeln in Bad Ischl, told as a story of happy arrival.",
+   "source": "Marburger Zeitung Nr. 120, 30.4.1945, S. 2 (Ausschnitt); dLib.si",
+   "url": "https://www.dlib.si/details/URN:NBN:SI:DOC-ZMNXK13Y",
+   "cite": "#/text/zwischen/gesucht/2"
+  },
+  {
+   "id": "viznachleben",
+   "side": "rezeption",
+   "titel": "Wie die Schlacht genannt wurde, 1945–2023",
+   "titel_en": "How the battle was named, 1945–2023",
+   "caption": "Grafik des Apparats: die Meldungen von 1945, die Gedenkorte, die polnische Literatur und die deutschen, amerikanischen und russischen Darstellungen bis zum „letzten Sieg“. Titel als Titel, nicht als Urteil.",
+   "caption_en": "The apparatus's graphic: the reports of 1945, the memorial sites, the Polish literature and the German, American and Russian accounts down to the 'last victory'. Titles as titles, not as judgements.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/nachleben/deutung/6"
+  },
+  {
+   "id": "ziemke507",
+   "side": "hist",
+   "titel": "„the best source“",
+   "titel_en": "“the best source”",
+   "caption": "Earl F. Ziemke, Stalingrad to Berlin (1968), Seite 507, aus der „Note on Sources“: mangels sowjetischer Dokumente bleiben die deutschen Akten „die beste Quelle“.",
+   "caption_en": "Earl F. Ziemke, Stalingrad to Berlin (1968), page 507, from the 'Note on Sources': in the absence of Soviet documents the German files remain 'the best source'.",
+   "source": "Earl F. Ziemke, Stalingrad to Berlin (CMH 1968/1987), S. 507 (Ausschnitt); Internet Archive, gemeinfrei",
+   "url": "https://archive.org/details/StalingradToBerlinTheGermanDefeatInTheEast-nsia",
+   "cite": "#/text/nachleben/quellen/1"
+  },
+  {
+   "id": "gedenkstein",
+   "side": "rezeption",
+   "titel": "Gedenkstein in Bautzen",
+   "titel_en": "Memorial stone in Bautzen",
+   "caption": "Gedenkstein in Bautzen, fotografiert 2006 (Knarf-bz, gemeinfrei). Links russisch und deutsch, rechts polnisch und sorbisch: oben Ruhm den gefallenen Soldaten, unten das Gedenken an 92 sowjetische und polnische „Bürger“, die 1945 bei Wuischke „ermordet“ wurden.",
+   "caption_en": "Memorial stone in Bautzen, photographed in 2006 (Knarf-bz, public domain). Left Russian and German, right Polish and Sorbian: above, glory to the fallen soldiers; below, the memory of 92 Soviet and Polish 'citizens' 'murdered' near Wuischke in 1945.",
+   "source": "Wikimedia Commons, GedenksteinBautzen.jpg",
+   "url": "https://commons.wikimedia.org/wiki/File:GedenksteinBautzen.jpg",
+   "cite": "#/text/nachleben/gedenken/3"
   }
  ]
 }

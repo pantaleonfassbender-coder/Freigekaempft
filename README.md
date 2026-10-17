@@ -8,7 +8,7 @@ Live: https://freigekaempft.netlify.app/ (im Aufbau)
 
 ## Quellen
 
-Nur gemeinfreie Drucke, am Seitenbild gelesen: nicht gezeichnete amtliche Bekanntmachungen von 1945 (Wehrmachtberichte, wie die *Marburger Zeitung* sie druckte; Digitalisate der Slowenischen Nationalbibliothek, dLib.si), die Meldungen des Sowjetischen Informationsbüros (*Сообщения Советского Информбюро*, Bd. 8, Moskau 1945; amtliche Dokumente), Earl F. Ziemke, *Stalingrad to Berlin* (U.S. Army Center of Military History, 1968; Werk der US-Bundesregierung) und, wo gemeinfrei, polnische amtliche Dokumente. Filme der Deutschen Wochenschau werden nicht gezeigt, nur genannt oder verlinkt. Hakenkreuze und Hoheitszeichen werden nicht wiedergegeben.
+Nur gemeinfreie Drucke, am Seitenbild gelesen: nicht gezeichnete amtliche Bekanntmachungen von 1945 (Wehrmachtberichte, wie die *Marburger Zeitung* sie druckte; Digitalisate der Slowenischen Nationalbibliothek, dLib.si), die Meldungen des Sowjetischen Informationsbüros (*Сообщения Советского Информбюро*, Bd. 8, Moskau 1945; amtliche Dokumente), Earl F. Ziemke, *Stalingrad to Berlin* (U.S. Army Center of Military History, 1968; Werk der US-Bundesregierung) und, wo gemeinfrei, polnische amtliche Dokumente. Wo gemeinfreie Belege fehlen (die Verbrechen in und um die Schlacht, die Sorben, das Nachleben), stehen ausdrücklich gekennzeichnete Referate der neueren Literatur; Titel, die sich nicht bestätigen ließen, sind weggelassen. Ein gemeinfreies Foto von Wikimedia Commons zeigt den Gedenkstein in Bautzen, dessen Inschriften am Bild gelesen sind. Filme der Deutschen Wochenschau werden nicht gezeigt, nur genannt oder verlinkt. Hakenkreuze und Hoheitszeichen werden nicht wiedergegeben.
 
 ## Aufbau
 

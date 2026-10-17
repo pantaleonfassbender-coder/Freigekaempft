@@ -145,6 +145,108 @@
      ]
     }
    ]
+  },
+  {
+   "id": "sieg",
+   "titel": "„Ein letzter Sieg“?",
+   "titel_en": "'A last victory'?",
+   "frage": "Was das OKW 1945 meldete, wie Ziemke den Angriff nach den Akten beurteilt, wie Polen die Schlacht erinnerte, und wie sie heute heißt.",
+   "frage_en": "What the OKW reported in 1945, how Ziemke judges the attack from the files, how Poland remembered the battle, and what it is called today.",
+   "note": "„Freigekämpft“ ist das Wort des Wehrmachtberichts, „close to a standstill“ Ziemkes Urteil über den Angriff nach Norden, der „blutige Sieg“ die Lesart der Volksrepublik Polen, der „letzte Sieg“ ein Titel von 2020 und 2021. Alle vier beschreiben dieselben Tage; keine nennt Horka oder Niederkaina.",
+   "note_en": "'Fought free' is the word of the Wehrmacht report, 'close to a standstill' Ziemke's judgement of the attack northward, the 'bloody victory' the reading of the Polish People's Republic, the 'last victory' a title of 2020 and 2021. All four describe the same days; none names Horka or Niederkaina.",
+   "voices": [
+    {
+     "side": "dt",
+     "autor": "Oberkommando der Wehrmacht",
+     "autor_en": "High Command of the Wehrmacht",
+     "text": "meldungen",
+     "sec": "okw",
+     "n": [
+      3
+     ]
+    },
+    {
+     "side": "hist",
+     "autor": "Earl F. Ziemke (1968), nach den Akten",
+     "autor_en": "Earl F. Ziemke (1968), from the files",
+     "text": "gegenangriff",
+     "sec": "norden",
+     "n": [
+      10
+     ]
+    },
+    {
+     "side": "rezeption",
+     "autor": "Referat des Apparats",
+     "autor_en": "Summary by the apparatus",
+     "text": "nachleben",
+     "sec": "deutung",
+     "n": [
+      5
+     ]
+    },
+    {
+     "side": "rezeption",
+     "autor": "Referat des Apparats",
+     "autor_en": "Summary by the apparatus",
+     "text": "nachleben",
+     "sec": "deutung",
+     "n": [
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": "zahlen",
+   "titel": "Wer gezählt wurde",
+   "titel_en": "Who was counted",
+   "frage": "14.600 „Tote“ vor einer Divisionsfront, 4.902 polnische Tote, 150 bis 300 in Horka, 92 bei Wuischke: wer zählte, und was?",
+   "frage_en": "14,600 'dead' in front of one division, 4,902 Polish dead, 150 to 300 at Horka, 92 near Wuischke: who counted, and what?",
+   "note": "Die erste Zahl ist eine Propagandameldung vom Tag vor der Kapitulation, die zweite eine amtliche polnische Zählung ohne zugänglichen Beleg, die dritte eine Spanne der neueren Literatur, die vierte steht auf einem Stein. Keine lässt sich hier an einer unabhängigen Quelle prüfen, und sie zählen Verschiedenes: Gefallene, Verwundete, Ermordete. Die deutschen und sowjetischen Verluste bei Bautzen nennt keine Quelle dieses Apparats.",
+   "note_en": "The first figure is a propaganda report from the day before the capitulation, the second an official Polish count without an accessible source, the third a range from recent literature, the fourth is carved on a stone. None can be checked here against an independent source, and they count different things: fallen, wounded, murdered. No source in this apparatus gives the German and Soviet losses at Bautzen.",
+   "voices": [
+    {
+     "side": "dt",
+     "autor": "Marburger Zeitung, 7.5.1945",
+     "autor_en": "Marburger Zeitung, 7 May 1945",
+     "text": "meldungen",
+     "sec": "danach",
+     "n": [
+      5
+     ]
+    },
+    {
+     "side": "rezeption",
+     "autor": "Referat des Apparats",
+     "autor_en": "Summary by the apparatus",
+     "text": "nachleben",
+     "sec": "deutung",
+     "n": [
+      5
+     ]
+    },
+    {
+     "side": "zivil",
+     "autor": "Referat des Apparats",
+     "autor_en": "Summary by the apparatus",
+     "text": "verbrechen",
+     "sec": "literatur",
+     "n": [
+      3
+     ]
+    },
+    {
+     "side": "rezeption",
+     "autor": "Gedenkstein in Bautzen",
+     "autor_en": "Memorial stone in Bautzen",
+     "text": "nachleben",
+     "sec": "gedenken",
+     "n": [
+      3
+     ]
+    }
+   ]
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "span": "5. März – 9. Mai 1945",
- "span_en": "5 March – 9 May 1945",
+ "span": "5. März – 10. Mai 1945",
+ "span_en": "5 March – 10 May 1945",
  "lede": "Die Tage der Offensive, wie die Meldungen sie erzählen und wie sie verliefen.",
  "lede_en": "The days of the offensive as the reports tell them and as they went.",
  "stations": [
@@ -73,6 +73,20 @@
    "key": "1945-04-10"
   },
   {
+   "key": "1945-04-15",
+   "d": "Mitte April 1945",
+   "d_en": "Mid-April 1945",
+   "side": "zivil",
+   "titel": "Das Außenlager wird geräumt",
+   "titel_en": "The subcamp is cleared",
+   "text": "Nach der neueren Literatur: Die Häftlinge des Außenlagers Bautzen, die die Stellungen um die Stadt gebaut hatten, müssen Richtung Nixdorf marschieren. Keine Meldung erwähnt sie.",
+   "text_en": "According to recent literature: the prisoners of the Bautzen subcamp, who had built the positions around the town, are made to march towards Nixdorf. No report mentions them.",
+   "cite": "#/text/verbrechen/literatur/5",
+   "citeLabel": "Verbrechen [5]",
+   "citeLabel_en": "Crimes [5]",
+   "plate": "vizorte"
+  },
+  {
    "d": "16. April 1945",
    "d_en": "16 April 1945",
    "side": "sow",
@@ -139,6 +153,19 @@
    "citeLabel_en": "Situation [8]",
    "plate": "mzokw20",
    "key": "1945-04-19"
+  },
+  {
+   "key": "1945-04-19c",
+   "d": "19. April 1945",
+   "d_en": "19 April 1945",
+   "side": "dt",
+   "titel": "Suchkarteien für „Rückgeführte“",
+   "titel_en": "Search card indexes for 'evacuees'",
+   "text": "Die Zeitung meldet die Suchkarteien der NSV. Das Wort „Flüchtling“ kommt darin nicht vor.",
+   "text_en": "The newspaper reports the NSV's search card indexes. The word 'refugee' does not appear in it.",
+   "cite": "#/text/zwischen/gesucht/1",
+   "citeLabel": "Zwischen [1]",
+   "citeLabel_en": "Between [1]"
   },
   {
    "d": "20. April 1945",
@@ -208,6 +235,19 @@
    "citeLabel_en": "Bunker [3]"
   },
   {
+   "key": "1945-04-22b",
+   "d": "22. April 1945",
+   "d_en": "22 April 1945",
+   "side": "zivil",
+   "titel": "Niederkaina",
+   "titel_en": "Niederkaina",
+   "text": "Nach der neueren Literatur werden in Niederkaina rund zweihundert gefangene Volkssturmmänner getötet, nach Kania von Rotarmisten.",
+   "text_en": "According to recent literature around two hundred captured Volkssturm men are killed at Niederkaina, according to Kania by Red Army soldiers.",
+   "cite": "#/text/verbrechen/literatur/4",
+   "citeLabel": "Verbrechen [4]",
+   "citeLabel_en": "Crimes [4]"
+  },
+  {
    "key": "1945-04-24",
    "d": "24. April 1945",
    "d_en": "24 April 1945",
@@ -220,6 +260,19 @@
    "citeLabel": "Gegenangriff [7]",
    "citeLabel_en": "Counterattack [7]",
    "plate": "mzkamenz"
+  },
+  {
+   "key": "1945-04-24b",
+   "d": "24. April 1945",
+   "d_en": "24 April 1945",
+   "side": "sow",
+   "titel": "„Zehntausende Kriegsgefangene“ befreit",
+   "titel_en": "'Tens of thousands of prisoners of war' freed",
+   "text": "Moskau meldet bei Großenhain befreite Kriegsgefangene „verschiedener Nationalitäten“, als eine Zeile unter der Beute.",
+   "text_en": "Moscow reports prisoners of war 'of various nationalities' freed near Großenhain, as one line beneath the booty.",
+   "cite": "#/text/zwischen/befreit/4",
+   "citeLabel": "Zwischen [4]",
+   "citeLabel_en": "Between [4]"
   },
   {
    "key": "1945-04-26",
@@ -248,6 +301,19 @@
    "citeLabel": "Meldungen [3]",
    "citeLabel_en": "Reports [3]",
    "plate": "mzbautzen"
+  },
+  {
+   "key": "1945-04-26c",
+   "d": "26. April 1945",
+   "d_en": "26 April 1945",
+   "side": "zivil",
+   "titel": "Horka",
+   "titel_en": "Horka",
+   "text": "Nach der neueren Literatur wird bei Horka eine Sanitätskolonne der polnischen 9. Division überfallen; 150 bis 300 Verwundete und Sanitäter werden getötet. Am selben Tag meldet das OKW Bautzen „freigekämpft“.",
+   "text_en": "According to recent literature a medical column of the Polish 9th Division is attacked near Horka; 150 to 300 wounded and medical staff are killed. On the same day the OKW reports Bautzen 'fought free'.",
+   "cite": "#/text/verbrechen/literatur/3",
+   "citeLabel": "Verbrechen [3]",
+   "citeLabel_en": "Crimes [3]"
   },
   {
    "key": "1945-04-27",
@@ -292,6 +358,20 @@
    "plate": "vizbunker"
   },
   {
+   "key": "1945-04-30b",
+   "d": "30. April 1945",
+   "d_en": "30 April 1945",
+   "side": "dt",
+   "titel": "Mit 101 Jahren nach Oberdonau",
+   "titel_en": "At 101 to Upper Danube",
+   "text": "Die Zeitung erzählt die Flucht eines Oppelner Altersheims als glückliches Ankommen in Bad Ischl.",
+   "text_en": "The newspaper tells the flight of an old people's home from Oppeln as a happy arrival in Bad Ischl.",
+   "cite": "#/text/zwischen/gesucht/2",
+   "citeLabel": "Zwischen [2]",
+   "citeLabel_en": "Between [2]",
+   "plate": "mzoppeln"
+  },
+  {
    "key": "1945-05-01",
    "d": "1. Mai 1945",
    "d_en": "1 May 1945",
@@ -332,6 +412,20 @@
    "citeLabel_en": "Reports [5]"
   },
   {
+   "key": "1945-05-07b",
+   "d": "7. Mai 1945",
+   "d_en": "7 May 1945",
+   "side": "dt",
+   "titel": "Ein Suchdienst „nur“ für „Volksgenossen“",
+   "titel_en": "A search service 'only' for 'national comrades'",
+   "text": "Am Tag vor der Kapitulation: Der Sender Görlitz sucht Schlesier, die ihren Wohnsitz „vorübergehend“ verlassen haben.",
+   "text_en": "On the day before the capitulation: the Görlitz station searches for Silesians who have 'temporarily' left their homes.",
+   "cite": "#/text/zwischen/gesucht/3",
+   "citeLabel": "Zwischen [3]",
+   "citeLabel_en": "Between [3]",
+   "plate": "mzsuch"
+  },
+  {
    "key": "1945-05-08",
    "d": "8. Mai 1945",
    "d_en": "8 May 1945",
@@ -357,6 +451,20 @@
    "citeLabel": "Lauban [6]",
    "citeLabel_en": "Lauban [6]",
    "plate": "sib9mai"
+  },
+  {
+   "key": "1945-05-10",
+   "d": "10. Mai 1945",
+   "d_en": "10 May 1945",
+   "side": "zivil",
+   "titel": "Die Domowina arbeitet wieder",
+   "titel_en": "The Domowina works again",
+   "text": "Nach ihren eigenen Angaben nimmt die sorbische Domowina, 1937 verboten, in Crostwitz die Arbeit wieder auf. In keiner Meldung dieser Wochen kommen die Sorben vor.",
+   "text_en": "According to its own account the Sorbian Domowina, banned in 1937, resumes its work in Crostwitz. The Sorbs appear in none of the reports of these weeks.",
+   "cite": "#/text/zwischen/fehlt/5",
+   "citeLabel": "Zwischen [5]",
+   "citeLabel_en": "Between [5]",
+   "plate": "vizzaehlung"
   }
  ]
 }
