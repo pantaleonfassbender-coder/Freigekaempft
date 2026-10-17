@@ -1,5 +1,78 @@
 {
- "lede": "",
- "lede_en": "",
- "pairs": []
+ "lede": "Dieselben Tage, zwei Meldungen: was das Oberkommando der Wehrmacht und das Sowjetische Informationsbüro über dieselben Orte sagten.",
+ "lede_en": "The same days, two reports: what the High Command of the Wehrmacht and the Soviet Information Bureau said about the same places.",
+ "pairs": [
+  {
+   "id": "bischofswerda",
+   "titel": "Bischofswerda, 22. April",
+   "titel_en": "Bischofswerda, 22 April",
+   "frage": "Einmal stimmen beide Seiten überein. Was sagen sie, und was lassen sie weg?",
+   "frage_en": "For once both sides agree. What do they say, and what do they leave out?",
+   "note": "Beide melden Bischofswerda in sowjetischer Hand. Das OKW schreibt dazu, die Frontlücke nordwestlich Görlitz sei geschlossen; Moskau nennt zehntausend Gefangene seit dem 17. April und schweigt vom deutschen Gegenangriff, der am Vortag begonnen hatte.",
+   "note_en": "Both report Bischofswerda in Soviet hands. The OKW adds that the gap north-west of Görlitz has been closed; Moscow gives ten thousand prisoners since 17 April and says nothing of the German counterattack begun the day before.",
+   "voices": [
+    {
+     "side": "dt",
+     "autor": "Oberkommando der Wehrmacht",
+     "autor_en": "High Command of the Wehrmacht",
+     "text": "gegenangriff",
+     "sec": "angriff",
+     "n": [
+      3
+     ]
+    },
+    {
+     "side": "sow",
+     "autor": "Sowjetisches Informationsbüro",
+     "autor_en": "Soviet Information Bureau",
+     "text": "gegenangriff",
+     "sec": "angriff",
+     "n": [
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kamenz",
+   "titel": "Kamenz und Pulsnitz, 23.–29. April",
+   "titel_en": "Kamenz and Pulsnitz, 23–29 April",
+   "frage": "Moskau meldet Pulsnitz genommen, das OKW Pulsnitz und Kamenz wieder deutsch, dann Kamenz noch einmal. Wem gehörte Kamenz?",
+   "frage_en": "Moscow reports Pulsnitz taken, the OKW Pulsnitz and Kamenz German again, then Kamenz once more. Whose was Kamenz?",
+   "note": "Aus diesen Quellen lässt sich die Frage nicht entscheiden. Moskau meldet Kamenz nach dem 21. April nicht mehr, weder als verloren noch als gehalten; das OKW meldet die Stadt am 24. und am 29. April „wieder“ deutsch, ohne einen Verlust dazwischen zu nennen.",
+   "note_en": "From these sources the question cannot be decided. Moscow does not report Kamenz after 21 April, neither as lost nor as held; the OKW reports the town German 'again' on 24 and on 29 April, without naming a loss in between.",
+   "voices": [
+    {
+     "side": "sow",
+     "autor": "Sowjetisches Informationsbüro",
+     "autor_en": "Soviet Information Bureau",
+     "text": "gegenangriff",
+     "sec": "kamenz",
+     "n": [
+      6
+     ]
+    },
+    {
+     "side": "dt",
+     "autor": "Oberkommando der Wehrmacht",
+     "autor_en": "High Command of the Wehrmacht",
+     "text": "gegenangriff",
+     "sec": "kamenz",
+     "n": [
+      7
+     ]
+    },
+    {
+     "side": "dt",
+     "autor": "Oberkommando der Wehrmacht",
+     "autor_en": "High Command of the Wehrmacht",
+     "text": "gegenangriff",
+     "sec": "norden",
+     "n": [
+      12
+     ]
+    }
+   ]
+  }
+ ]
 }

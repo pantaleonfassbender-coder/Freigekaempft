@@ -10,29 +10,31 @@
    "quelle": "Ziemke, Stalingrad to Berlin (CMH 1968) S. 471–476; Wehrmachtberichte 17.–19.4.1945 (Marburger Zeitung 18.–20.4.); Сообщения Советского Информбюро, т. 8 (1945) S. 177–179",
    "datei": "lage",
    "zk": "Lage"
-  }
- ],
- "planned": [
+  },
   {
    "id": "lauban",
    "side": "dt",
    "kurz": "Lauban: die Wochenschau einer Gegenoffensive",
    "kurz_en": "Lauban: the newsreel of a counteroffensive",
-   "warum": "",
-   "warum_en": "",
-   "quelle": "Wehrmachtberichte März 1945; Deutsche Wochenschau 754/755 (nur verlinkt)",
-   "quelle_en": "Wehrmacht reports March 1945; German newsreel 754/755 (linked only)"
+   "warum": "Die Rückeroberung von Lauban Anfang März 1945 in Wehrmachtbericht, Nachrichtenbüro und Wochenschau: das Vorbild, an dem im April Bautzen gemessen wurde. Und Moskaus Schweigen bis zum 9. Mai.",
+   "warum_en": "The recapture of Lauban early in March 1945 in the Wehrmacht report, the news bureau and the newsreel: the model against which Bautzen was measured in April. And Moscow's silence until 9 May.",
+   "quelle": "Wehrmachtberichte 5.–8.3.1945 und dnb-Meldung 11.3.1945 (Marburger Zeitung 6.–12.3.); Сообщения Советского Информбюро, т. 8 (1945) S. 209",
+   "datei": "lauban",
+   "zk": "Lauban"
   },
   {
    "id": "gegenangriff",
    "side": "dt",
-   "kurz": "Der Gegenangriff, 21.–30. April",
-   "kurz_en": "The counterattack, 21–30 April",
-   "warum": "",
-   "warum_en": "",
-   "quelle": "OKW-Berichte; Sowinformbüro; Ziemke; polnische Dokumente",
-   "quelle_en": "OKW reports; Soviet Information Bureau; Ziemke; Polish documents"
-  },
+   "kurz": "Der Gegenangriff, 21. April – 1. Mai",
+   "kurz_en": "The counterattack, 21 April – 1 May",
+   "warum": "Der Verlauf in den Meldungen beider Seiten, Tag für Tag: Bischofswerda, Pulsnitz, Kamenz zweimal „wieder“, Weißenberg, der Angriff nach Norden, und Ziemkes Urteil: nahe am Stillstand.",
+   "warum_en": "The course in the reports of both sides, day by day: Bischofswerda, Pulsnitz, Kamenz 'again' twice, Weißenberg, the attack northward, and Ziemke's judgement: close to a standstill.",
+   "quelle": "Wehrmachtberichte 21.4.–1.5.1945 (Marburger Zeitung 23.4.–2.5.); Сообщения Советского Информбюро, т. 8 (1945) S. 181–188; Ziemke S. 477, 485",
+   "datei": "gegenangriff",
+   "zk": "Gegenangriff"
+  }
+ ],
+ "planned": [
   {
    "id": "meldungen",
    "side": "sow",

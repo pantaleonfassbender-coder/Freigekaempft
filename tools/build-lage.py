@@ -141,6 +141,7 @@ DATA = {
     "autor": "Earl F. Ziemke (1968), Oberkommando der Wehrmacht (1945), Sowjetisches Informationsbüro (1945)",
     "autor_en": "Earl F. Ziemke (1968), High Command of the Wehrmacht (1945), Soviet Information Bureau (1945)",
     "jahr": "16.–20. April 1945",
+    "jahr_en": "16–20 April 1945",
     "orig_sprache": "en",
     "pg_label": "",
     "quelle": "Earl F. Ziemke, Stalingrad to Berlin: The German Defeat in the East (Washington: U.S. Army Center of Military History, 1968; CMH Pub 30-5-1, 1987), S. 471, 473–476 (Internet Archive StalingradToBerlinTheGermanDefeatInTheEast-nsia); Wehrmachtberichte vom 17.–19. April 1945 in der Marburger Zeitung Nr. 108–110, 18.–20.4.1945 (dLib.si, URN:NBN:SI:DOC-JFYILBDU, -Q5V4ZWER, -F2DJDGGD); Сообщения Советского Информбюро, т. 8, январь–май 1945 (Москва 1945), S. 177–179 (booksite.ru/fulltext/inform8).",

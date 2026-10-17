@@ -2,7 +2,7 @@
 
 - Ziemke, Stalingrad to Berlin (CMH Pub 30-5-1, 1987), Internet Archive StalingradToBerlinTheGermanDefeatInTheEast-nsia
 - Сообщения Советского Информбюро, Bd. 8, Januar–Mai 1945 (Moskau 1945), Scan der Gebietsbibliothek Wologda (booksite.ru)
-- Marburger Zeitung, 17.4.–8.5.1945, Slowenische Nationalbibliothek (dLib.si); der Abruf braucht das Cookie der Detailseite.
+- Marburger Zeitung, 5.–14.3. und 17.4.–8.5.1945, Slowenische Nationalbibliothek (dLib.si); der Abruf braucht das Cookie der Detailseite.
 
 Lauf aus dem Repository:  python tools/fetch-quellen.py
 """
@@ -19,7 +19,8 @@ FILES = {
     "sovinformburo-t8-1945.pdf": "https://www.booksite.ru/fulltext/inform8/text.pdf",
 }
 # Ausgabe → dLib-URN (Suche: keywords=Marburger Zeitung, date=1945)
-MZ = {"04-17": "LHUM6CVT", "04-18": "JFYILBDU", "04-19": "Q5V4ZWER", "04-20": "F2DJDGGD", "04-23": "B1MS8XKH",
+MZ = {"03-05": "DGKIVJ49", "03-06": "RE6NCANH", "03-07": "FZSBTNDJ", "03-08": "4B8FMFFJ", "03-09": "WWSMFHVA",
+      "03-12": "E7P1B7LR", "03-13": "NKXCW8CB", "03-14": "XPYYLHWK", "04-17": "LHUM6CVT", "04-18": "JFYILBDU", "04-19": "Q5V4ZWER", "04-20": "F2DJDGGD", "04-23": "B1MS8XKH",
       "04-24": "YMAGJV7I", "04-25": "YQUEVGVE", "04-26": "3DFFYXPQ", "04-27": "YYEMNBC2", "04-30": "ZMNXK13Y",
       "05-01": "WTLJFS5P", "05-02": "VGG2ZXXB", "05-03": "VFEMJVPW", "05-04": "J0J8RBGY", "05-07": "NAZDZ66I",
       "05-08": "P3BFFLBT"}

@@ -47,6 +47,94 @@
    "source": "Сообщения Советского Информбюро, т. 8 (Москва 1945), S. 177 (Ausschnitt); booksite.ru",
    "url": "https://www.booksite.ru/fulltext/inform8/index.htm",
    "cite": "#/text/lage/moskau/9"
+  },
+  {
+   "id": "vizlauban",
+   "side": "hist",
+   "titel": "Lauban in den Meldungen, März bis Mai 1945",
+   "titel_en": "Lauban in the reports, March to May 1945",
+   "caption": "Grafik des Apparats: wann das OKW, das Deutsche Nachrichtenbüro und die Wochenschau von Lauban sprachen, und wann Moskau: erst am 9. Mai.",
+   "caption_en": "The apparatus's graphic: when the OKW, the German News Bureau and the newsreel spoke of Lauban, and when Moscow did: only on 9 May.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/lauban/moskau/6"
+  },
+  {
+   "id": "mzlauban",
+   "side": "dt",
+   "titel": "„Die Stadt Lauban wieder befreit“",
+   "titel_en": "“The town of Lauban liberated again”",
+   "caption": "Schlagzeile der Marburger Zeitung vom 9. März 1945 über dem Wehrmachtbericht vom 8. März. Ausschnitt ohne Zeitungskopf; der Bericht darunter, der die SS mit Runen setzt, ist nicht abgebildet.",
+   "caption_en": "Headline of the Marburger Zeitung of 9 March 1945 above the Wehrmacht report of 8 March. Excerpt without masthead; the report below, which prints the SS runes, is not reproduced.",
+   "source": "Marburger Zeitung Nr. 68, 9.3.1945, S. 1 (Ausschnitt); dLib.si",
+   "url": "https://www.dlib.si/details/URN:NBN:SI:DOC-WWSMFHVA",
+   "cite": "#/text/lauban/okw/3"
+  },
+  {
+   "id": "mzgoebbels",
+   "side": "dt",
+   "titel": "„Dr. Goebbels in Lauban und Görlitz“",
+   "titel_en": "“Dr Goebbels in Lauban and Görlitz”",
+   "caption": "Überschrift der Meldung des Deutschen Nachrichtenbüros in der Marburger Zeitung vom 12. März 1945, mit dem Satz aus der Görlitzer Rede: „Der Feind ist zu schlagen, denn wir haben ihn oft genug geschlagen“.",
+   "caption_en": "Headline of the German News Bureau's report in the Marburger Zeitung of 12 March 1945, with the sentence from the Görlitz speech: 'The enemy can be beaten, for we have beaten him often enough'.",
+   "source": "Marburger Zeitung Nr. 71, 12.3.1945, S. 1 (Ausschnitt); dLib.si",
+   "url": "https://www.dlib.si/details/URN:NBN:SI:DOC-E7P1B7LR",
+   "cite": "#/text/lauban/goebbels/4"
+  },
+  {
+   "id": "sib9mai",
+   "side": "sow",
+   "titel": "Lauban in der sowjetischen Meldung vom 9. Mai",
+   "titel_en": "Lauban in the Soviet report of 9 May",
+   "caption": "Сообщения Советского Информбюро, Band 8, Seite 209: Prag, und „юго-восточнее Дрездена“ eine Reihe von Städten, darunter ЛАУБАН.",
+   "caption_en": "Soobshcheniya Sovetskogo Informbyuro, vol. 8, p. 209: Prague, and 'south-east of Dresden' a row of towns, among them LAUBAN.",
+   "source": "Сообщения Советского Информбюро, т. 8 (Москва 1945), S. 209 (Ausschnitt); booksite.ru",
+   "url": "https://www.booksite.ru/fulltext/inform8/index.htm",
+   "cite": "#/text/lauban/moskau/6"
+  },
+  {
+   "id": "vizgegenangriff",
+   "side": "hist",
+   "titel": "Wer was wann meldete, 20. April – 1. Mai",
+   "titel_en": "Who reported what and when, 20 April – 1 May",
+   "caption": "Grafik des Apparats: jeder Ort an jedem Tag, wie Moskau und das OKW ihn meldeten. Kamenz ist zweimal „wieder“ deutsch; nach dem 26. April meldet Moskau den Raum nicht mehr. Ein Zeichen heißt: so gemeldet, nicht: so gewesen.",
+   "caption_en": "The apparatus's graphic: every place on every day as Moscow and the OKW reported it. Kamenz is German 'again' twice; after 26 April Moscow no longer reports the area. A mark means: reported so, not: so it was.",
+   "source": "Grafik des Apparats, CC BY 4.0",
+   "url": "",
+   "cite": "#/text/gegenangriff/norden/12"
+  },
+  {
+   "id": "mzkamenz",
+   "side": "dt",
+   "titel": "„Pulsnitz und Kamenz wieder in deutscher Hand“",
+   "titel_en": "“Pulsnitz and Kamenz again in German hands”",
+   "caption": "Schlagzeile der Marburger Zeitung vom 25. April 1945 über dem Wehrmachtbericht vom 24. April. Ausschnitt ohne Zeitungskopf.",
+   "caption_en": "Headline of the Marburger Zeitung of 25 April 1945 above the Wehrmacht report of 24 April. Excerpt without masthead.",
+   "source": "Marburger Zeitung Nr. 115, 25.4.1945, S. 1 (Ausschnitt); dLib.si",
+   "url": "https://www.dlib.si/details/URN:NBN:SI:DOC-YQUEVGVE",
+   "cite": "#/text/gegenangriff/kamenz/7"
+  },
+  {
+   "id": "mzkamenz2",
+   "side": "dt",
+   "titel": "„Kamenz und Königsbrück wurden wiedergenommen“",
+   "titel_en": "“Kamenz and Königsbrück were retaken”",
+   "caption": "Der Wehrmachtbericht vom 29. April in der Marburger Zeitung vom 1. Mai 1945, Seite 2: Kamenz zum zweiten Mal „wieder“.",
+   "caption_en": "The Wehrmacht report of 29 April in the Marburger Zeitung of 1 May 1945, page 2: Kamenz 'again' for the second time.",
+   "source": "Marburger Zeitung Nr. 121, 1.5.1945, S. 2 (Ausschnitt); dLib.si",
+   "url": "https://www.dlib.si/details/URN:NBN:SI:DOC-WTLJFS5P",
+   "cite": "#/text/gegenangriff/norden/12"
+  },
+  {
+   "id": "sib25",
+   "side": "sow",
+   "titel": "„В районе БАУЦЕН …“",
+   "titel_en": "“In the area of BAUTZEN …”",
+   "caption": "Сообщения Советского Информбюро, Band 8, Seite 186: die Meldung für den 25. April mit den abgewehrten Gegenangriffen bei Bautzen.",
+   "caption_en": "Soobshcheniya Sovetskogo Informbyuro, vol. 8, p. 186: the report for 25 April with the counterattacks repulsed at Bautzen.",
+   "source": "Сообщения Советского Информбюро, т. 8 (Москва 1945), S. 186 (Ausschnitt); booksite.ru",
+   "url": "https://www.booksite.ru/fulltext/inform8/index.htm",
+   "cite": "#/text/gegenangriff/kamenz/9"
   }
  ]
 }

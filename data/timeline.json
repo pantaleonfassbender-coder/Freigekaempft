@@ -1,9 +1,64 @@
 {
- "span": "10. April – 8. Mai 1945",
- "span_en": "10 April – 8 May 1945",
+ "span": "5. März – 9. Mai 1945",
+ "span_en": "5 March – 9 May 1945",
  "lede": "Die Tage der Offensive, wie die Meldungen sie erzählen und wie sie verliefen.",
  "lede_en": "The days of the offensive as the reports tell them and as they went.",
  "stations": [
+  {
+   "key": "1945-03-08",
+   "d": "8. März 1945",
+   "d_en": "8 March 1945",
+   "side": "dt",
+   "titel": "„Die Stadt ist befreit“",
+   "titel_en": "“The town is liberated”",
+   "text": "Das OKW meldet Lauban zurückerobert, mit 162 Panzern Beute. Moskau meldet nichts.",
+   "text_en": "The OKW reports Lauban recaptured, with 162 tanks as booty. Moscow reports nothing.",
+   "cite": "#/text/lauban/okw/3",
+   "citeLabel": "Lauban [3]",
+   "citeLabel_en": "Lauban [3]",
+   "plate": "mzlauban"
+  },
+  {
+   "key": "1945-03-11",
+   "d": "11. März 1945",
+   "d_en": "11 March 1945",
+   "side": "dt",
+   "titel": "Goebbels in Lauban und Görlitz",
+   "titel_en": "Goebbels in Lauban and Görlitz",
+   "text": "Das Deutsche Nachrichtenbüro meldet Goebbels' Rede auf dem Markt von Lauban vor Soldaten, Volkssturm und Hitlerjungen mit dem Eisernen Kreuz, und am Abend in Görlitz.",
+   "text_en": "The German News Bureau reports Goebbels's speech in the market square of Lauban to soldiers, Volkssturm and Hitler Youths with the Iron Cross, and in the evening at Görlitz.",
+   "cite": "#/text/lauban/goebbels/4",
+   "citeLabel": "Lauban [4]",
+   "citeLabel_en": "Lauban [4]",
+   "plate": "mzgoebbels"
+  },
+  {
+   "key": "1945-03-16",
+   "d": "16. März 1945",
+   "d_en": "16 March 1945",
+   "side": "dt",
+   "titel": "Die Wochenschau zeigt Lauban",
+   "titel_en": "The newsreel shows Lauban",
+   "text": "Produktionsdatum des Wochenschau-Beitrags über Goebbels in Lauban und Görlitz. Der Film wird hier nicht gezeigt; der Katalogeintrag des US Holocaust Memorial Museum beschreibt ihn.",
+   "text_en": "Production date of the newsreel item on Goebbels in Lauban and Görlitz. The film is not shown here; the catalogue entry of the US Holocaust Memorial Museum describes it.",
+   "cite": "https://collections.ushmm.org/search/catalog/irn1004473",
+   "citeLabel": "Katalog USHMM, Film 2886",
+   "citeLabel_en": "USHMM catalogue, film 2886"
+  },
+  {
+   "key": "1945-03-22",
+   "d": "22. März 1945",
+   "d_en": "22 March 1945",
+   "side": "dt",
+   "titel": "Die letzte Wochenschau",
+   "titel_en": "The last newsreel",
+   "text": "Die Deutsche Wochenschau erscheint zum letzten Mal. Für Bautzen im April gibt es keine.",
+   "text_en": "The German newsreel appears for the last time. For Bautzen in April there is none.",
+   "cite": "#/text/lauban/goebbels/4",
+   "citeLabel": "Lauban [4]",
+   "citeLabel_en": "Lauban [4]",
+   "plate": "vizlauban"
+  },
   {
    "d": "10. April 1945",
    "d_en": "10 April 1945",
@@ -14,7 +69,8 @@
    "text_en": "Five days after his promotion to field marshal Schörner reports to Hitler that the attack will fall between Görlitz and Löwenberg. He keeps half his reserves there.",
    "cite": "#/text/lage/falsch/2",
    "citeLabel": "Lage [2]",
-   "citeLabel_en": "Situation [2]"
+   "citeLabel_en": "Situation [2]",
+   "key": "1945-04-10"
   },
   {
    "d": "16. April 1945",
@@ -27,7 +83,8 @@
    "cite": "#/text/lage/neisse/3",
    "citeLabel": "Lage [3]",
    "citeLabel_en": "Situation [3]",
-   "plate": "ziemke42"
+   "plate": "ziemke42",
+   "key": "1945-04-16"
   },
   {
    "d": "17. April 1945",
@@ -39,7 +96,8 @@
    "text_en": "The Wehrmacht report announces the attack on the Lusatian Neisse as expected and the penetrations as sealed off.",
    "cite": "#/text/lage/okw/6",
    "citeLabel": "Lage [6]",
-   "citeLabel_en": "Situation [6]"
+   "citeLabel_en": "Situation [6]",
+   "key": "1945-04-17"
   },
   {
    "d": "18. April 1945",
@@ -51,7 +109,8 @@
    "text_en": "At Führer headquarters the offensive against the Fourth Panzer Army is believed to have run itself tight; Konev's troops stand on the Spree at Spremberg and approach Bautzen.",
    "cite": "#/text/lage/neisse/4",
    "citeLabel": "Lage [4]",
-   "citeLabel_en": "Situation [4]"
+   "citeLabel_en": "Situation [4]",
+   "key": "1945-04-18"
   },
   {
    "d": "19. April 1945",
@@ -64,7 +123,8 @@
    "cite": "#/text/lage/moskau/9",
    "citeLabel": "Lage [9]",
    "citeLabel_en": "Situation [9]",
-   "plate": "sib19"
+   "plate": "sib19",
+   "key": "1945-04-19"
   },
   {
    "d": "19. April 1945",
@@ -77,7 +137,8 @@
    "cite": "#/text/lage/okw/8",
    "citeLabel": "Lage [8]",
    "citeLabel_en": "Situation [8]",
-   "plate": "mzokw20"
+   "plate": "mzokw20",
+   "key": "1945-04-19"
   },
   {
    "d": "20. April 1945",
@@ -90,7 +151,90 @@
    "cite": "#/text/lage/neisse/5",
    "citeLabel": "Lage [5]",
    "citeLabel_en": "Situation [5]",
-   "plate": "vizlage"
+   "plate": "vizlage",
+   "key": "1945-04-20"
+  },
+  {
+   "key": "1945-04-21b",
+   "d": "21. April 1945",
+   "d_en": "21 April 1945",
+   "side": "hist",
+   "titel": "Der Gegenangriff beginnt",
+   "titel_en": "The counterattack begins",
+   "text": "Die 4. Panzerarmee kommt nordwestlich Görlitz örtlich voran; im Führerhauptquartier ist es „ein Schimmer guter Nachricht“.",
+   "text_en": "The Fourth Panzer Army makes local progress north-west of Görlitz; at Führer headquarters it is 'a glimmer of good news'.",
+   "cite": "#/text/gegenangriff/angriff/1",
+   "citeLabel": "Gegenangriff [1]",
+   "citeLabel_en": "Counterattack [1]"
+  },
+  {
+   "key": "1945-04-24",
+   "d": "24. April 1945",
+   "d_en": "24 April 1945",
+   "side": "dt",
+   "titel": "„Pulsnitz und Kamenz sind wieder in deutscher Hand“",
+   "titel_en": "“Pulsnitz and Kamenz are again in German hands”",
+   "text": "Das OKW meldet die sowjetischen Spitzen vor Dresden zum Rückzug gezwungen.",
+   "text_en": "The OKW reports the Soviet spearheads before Dresden forced to pull back.",
+   "cite": "#/text/gegenangriff/kamenz/7",
+   "citeLabel": "Gegenangriff [7]",
+   "citeLabel_en": "Counterattack [7]",
+   "plate": "mzkamenz"
+  },
+  {
+   "key": "1945-04-26",
+   "d": "26. April 1945",
+   "d_en": "26 April 1945",
+   "side": "sow",
+   "titel": "Moskau meldet Bautzen zum letzten Mal",
+   "titel_en": "Moscow reports Bautzen for the last time",
+   "text": "Gegenangriffe bei Bautzen „weiter abgewehrt“; danach kommt der Raum in den sowjetischen Meldungen nicht mehr vor. Ziemke: Schörners Angriff ist „close to a standstill“.",
+   "text_en": "Counterattacks at Bautzen 'continued to be repulsed'; after this the area no longer appears in the Soviet reports. Ziemke: Schörner's attack is 'close to a standstill'.",
+   "cite": "#/text/gegenangriff/kamenz/9",
+   "citeLabel": "Gegenangriff [9]",
+   "citeLabel_en": "Counterattack [9]",
+   "plate": "sib25"
+  },
+  {
+   "key": "1945-04-29",
+   "d": "29. April 1945",
+   "d_en": "29 April 1945",
+   "side": "dt",
+   "titel": "Kamenz zum zweiten Mal „wieder“",
+   "titel_en": "Kamenz “again” for the second time",
+   "text": "Das OKW meldet Kamenz und Königsbrück wiedergenommen; dass Kamenz dazwischen verloren ging, hatte kein Bericht gesagt.",
+   "text_en": "The OKW reports Kamenz and Königsbrück retaken; no report had said that Kamenz was lost in between.",
+   "cite": "#/text/gegenangriff/norden/12",
+   "citeLabel": "Gegenangriff [12]",
+   "citeLabel_en": "Counterattack [12]",
+   "plate": "vizgegenangriff"
+  },
+  {
+   "key": "1945-05-01",
+   "d": "1. Mai 1945",
+   "d_en": "1 May 1945",
+   "side": "dt",
+   "titel": "„Um unsern Führer geschart“",
+   "titel_en": "“Gathered around our Führer”",
+   "text": "Das OKW meldet die „Säuberungskämpfe“ um Bautzen, Kamenz und Königsbrück abgeschlossen und die Besatzung Berlins „um unseren Führer geschart“. Hitler war seit dem Vortag tot.",
+   "text_en": "The OKW reports the 'mopping-up' around Bautzen, Kamenz and Königsbrück completed and the Berlin garrison 'gathered around our Führer'. Hitler had been dead since the day before.",
+   "cite": "#/text/gegenangriff/norden/13",
+   "citeLabel": "Gegenangriff [13]",
+   "citeLabel_en": "Counterattack [13]"
+  },
+  {
+   "key": "1945-05-09",
+   "d": "9. Mai 1945",
+   "d_en": "9 May 1945",
+   "side": "sow",
+   "titel": "Lauban, beiläufig",
+   "titel_en": "Lauban, in passing",
+   "text": "Am Tag nach der Kapitulation meldet Moskau Lauban unter den genommenen Städten, zum ersten Mal im ganzen Band der Meldungen.",
+   "text_en": "The day after the capitulation Moscow reports Lauban among the towns taken, for the first time in the whole volume of reports.",
+   "cite": "#/text/lauban/moskau/6",
+   "citeLabel": "Lauban [6]",
+   "citeLabel_en": "Lauban [6]",
+   "plate": "sib9mai"
   }
  ]
 }

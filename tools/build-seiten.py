@@ -23,6 +23,19 @@ SEITEN = {
     "mzokw20": ("mz/mz-1945-04-20.pdf", 1, (190, 505, 712, 905), 150),
     # Сообщения Советского Информбюро, Bd. 8, S. 177: Оперативная сводка за 19 апреля
     "sib19": ("sovinformburo-t8-1945.pdf", 175, (20, 345, 431, 425), 200),
+    # Marburger Zeitung Nr. 68, 9.3.1945, S. 1: Schlagzeile (ohne Zeitungskopf; der Bericht darunter setzt SS-Runen und
+    # bleibt außerhalb des Ausschnitts)
+    "mzlauban": ("mz/mz-1945-03-09.pdf", 0, (0, 203, 600, 292), 150),
+    # Marburger Zeitung Nr. 71, 12.3.1945, S. 1: Überschrift der dnb-Meldung „Dr. Goebbels in Lauban und Görlitz“
+    "mzgoebbels": ("mz/mz-1945-03-12.pdf", 0, (585, 233, 1000, 290), 170),
+    # Сообщения Советского Информбюро, Bd. 8, S. 209: Оперативная сводка за 9 мая (Lauban)
+    "sib9mai": ("sovinformburo-t8-1945.pdf", 207, (20, 360, 431, 450), 200),
+    # Marburger Zeitung Nr. 115, 25.4.1945, S. 1: Schlagzeile „… Pulsnitz und Kamenz wieder in deutscher Hand“
+    "mzkamenz": ("mz/mz-1945-04-25.pdf", 0, (0, 238, 655, 312), 150),
+    # Marburger Zeitung Nr. 121, 1.5.1945, S. 2: „Kamenz und Königsbrück wurden wiedergenommen“
+    "mzkamenz2": ("mz/mz-1945-05-01.pdf", 1, (203, 308, 402, 362), 190),
+    # Сообщения Советского Информбюро, Bd. 8, S. 186: Оперативная сводка за 25 апреля (Bautzen)
+    "sib25": ("sovinformburo-t8-1945.pdf", 184, (0, 480, 431, 540), 200),
 }
 
 

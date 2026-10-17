@@ -190,7 +190,7 @@ async function reader([id, secId, unitN]) {
   const labels = { both: S("both"), orig: origName, en: S("trans") };
   view.innerHTML = `
     <p class="fine"><a href="#/texts">${esc(S("allTexts"))}</a></p>
-    <span class="tag">${side(m.side)} ${esc(t.jahr)} · ${esc(S("citeAs"))} ${esc(sec.zk)} [n]</span>
+    <span class="tag">${side(m.side)} ${esc(L(t, "jahr"))} · ${esc(S("citeAs"))} ${esc(sec.zk)} [n]</span>
     <h1>${esc(L(t, "titel"))}</h1>
     <p class="fine">${esc(L(t, "autor"))}</p>
     <nav class="toc">${t.sections.map(s => `<a href="#/text/${id}/${s.id}" class="${s.id === sec.id ? "on" : ""}">${esc(L(s, "titel"))}</a>`).join("")}</nav>
@@ -252,7 +252,7 @@ async function compare([pid]) {
     const sec = t.sections.find(s => s.id === v.sec);
     const units = v.n.map(n => sec.units.find(u => u.n === n)).filter(Boolean);
     return `<div class="voice">
-      <div class="vhead">${side(v.side || m.side)} <b>${esc(v.autor ? L(v, "autor") : L(t, "autor"))}</b><br><span class="fine">${esc(t.jahr)} · ${esc(L(sec, "titel"))}</span></div>
+      <div class="vhead">${side(v.side || m.side)} <b>${esc(v.autor ? L(v, "autor") : L(t, "autor"))}</b><br><span class="fine">${esc(L(t, "jahr"))} · ${esc(L(sec, "titel"))}</span></div>
       ${units.map(u => `<div class="vunit">
         <div class="fine"><a href="#/text/${m.id}/${sec.id}/${u.n}">${esc(sec.zk)} [${u.n}]</a>${u.titel ? ` · ${esc(L(u, "titel"))}` : ""}</div>
         <div class="text">${esc(u.orig && (u.lang || t.orig_sprache) === ui ? u.orig : tr(u, u.lang || t.orig_sprache))}</div></div>`).join("")}
